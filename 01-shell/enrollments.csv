@@ -1,0 +1,988 @@
+LastName|FirstName|MiddleName|ID|Dept|Year|CourseID|Section|Activity|Adviser|RegisteredToGraduate|Email
+Spade|Sam||555555|Undergraduate: Economics|4|CMSC 12200|01|01|CHAMPA|N|spade@uchicago.edu
+Smith|Joe||4444444|Undergraduate: Visual Arts|3|CMSC 12200|01|01|CHAMPA|N|joesmith@uchicago.edu
+Doe|Jane||3333333|Undergraduate: Mathematics|2|CMSC 12200|01|01|CHAMPA|N|janedoe@uchicago.edu
+Alvarez|Maria|Brittany|447220|Undergraduate: Common Year|2|CMSC 10100|01|01|DEWEY|N|alvarezmaria@uchicago.edu
+Askins-Gast|Rebecca|Anne|426950|Undergraduate: E. Asian Lang/civ|4|CMSC 10100|01|01|GORNY|N|askinsgast@uchicago.edu
+Audette|Samuel|Lancaster|437356|Undergraduate: Law, Letters, Society|3|CMSC 10100|01|01|OWEIS|N|audette@uchicago.edu
+Cox|Alyssa|Suzanne|437530|Undergraduate: Public Policy Studies|3|CMSC 10100|01|01|WESONGA|N|alyssacox@uchicago.edu
+David|Taylor|Dawn|447830|Undergraduate: Common Year|2|CMSC 10100|01|01|KANTER|N|tdawndavid@uchicago.edu
+Edreva|Eleonora|Hristova|436774|Undergraduate: English Lang/lit|3|CMSC 10100|01|01|LAWRENCE|N|eedreva@uchicago.edu
+Finlayson|Morgan|Makanalani|448941|Undergraduate: Economics|2|CMSC 10100|01|01|GORNY|N|mfinlayson@uchicago.edu
+Haglund|Jonathan|Richard|426541|Undergraduate: Economics|4|CMSC 10100|01|01|LIZARDO|N|haglund@uchicago.edu
+Hsu|Connie|H|456605|Undergraduate: Common Year|1|CMSC 10100|01|01|LIZARDO|N|hsuch@uchicago.edu
+Huang|Julia||447178|Undergraduate: Common Year|2|CMSC 10100|01|01|KANTER|N|juliahuang@uchicago.edu
+Lo|Wing Cheung Vincent||426334|Undergraduate: Economics|4|CMSC 10100|01|01|BURNS-HOWARD|N|vincentlo@uchicago.edu
+Obasohan|Anita|Osayame|457277|Undergraduate: Common Year|1|CMSC 10100|01|01|CHINNIAH|N|aobasohan@uchicago.edu
+Ramin|Oliver|Lewis|427472|Undergraduate: Public Policy Studies|4|CMSC 10100|01|01|GORNY|N|olramin@uchicago.edu
+Steinberg|Ethan|Phillip|439790|Undergraduate: Common Year|2|CMSC 10100|01|01|BLECHSCHMIDT|N|ethansteinberg@uchicago.edu
+Throsby|Samantha|Alex Jenour|428020|Undergraduate: Comp Sci|4|CMSC 10100|01|01|HO|N|sajthrosby@uchicago.edu
+Voss|Kayleigh|Evangeline|427985|Undergraduate: English Lang/lit|4|CMSC 10100|01|01|LAMPERT|N|kayleighv@uchicago.edu
+Yu|Allison|J|447252|Undergraduate: Common Year|2|CMSC 10100|01|01|DEWEY|N|ajy@uchicago.edu
+Hazen|Madeleine|Dasha|447704|Undergraduate: Common Year|2|CMSC 10100|01|02|WESONGA|N|mhazen@uchicago.edu
+Hu|Ciara|Tipping|426712|Undergraduate: Biological Sciences|4|CMSC 10100|01|02|HAWK|N|chu3@uchicago.edu
+I|Eva||456551|Undergraduate: Common Year|1|CMSC 10100|01|02|HAWK|N|evai@uchicago.edu
+Li|Jason|Z.|447899|Undergraduate: Common Year|2|CMSC 10100|01|02|SNOW|N|jasonzli@uchicago.edu
+Meek|Thomas|Warren|427004|Undergraduate: Public Policy Studies|4|CMSC 10100|01|02|HO|N|thomasmeek@uchicago.edu
+Miller|James|Patrick|448510|Undergraduate: Undeclared|2|CMSC 10100|01|02|BURNS-HOWARD|N|millerjp@uchicago.edu
+Ordaz|Alfonso|Santiago|427116|Undergraduate: Political Science|4|CMSC 10100|01|02|MYERS|N|asordaz@uchicago.edu
+Price|Kaitlin|Allison|447202|Undergraduate: Common Year|2|CMSC 10100|01|02|SNOW|N|kaitlinprice@uchicago.edu
+Rausch|Hannah|Wills|426940|Undergraduate: E. Asian Lang/civ|4|CMSC 10100|01|02|HAWK|N|hrausch@uchicago.edu
+Silverstein|Margaret|Chun Hua|447176|Undergraduate: Common Year|2|CMSC 10100|01|02|CHAMPA|N|maysilverstein@uchicago.edu
+Swim|Luci|Elizabeth|426295|Undergraduate: Visual Arts|4|CMSC 10100|01|02|GAINES|N|lswim@uchicago.edu
+Zhang|Kelly|Wang|437326|Undergraduate: Comp Sci|3|CMSC 10100|01|02|WESONGA|N|kellywzhang@uchicago.edu
+Adusumilli|Bobby||426402|Undergraduate: Economics|4|CMSC 12200|01|01|CHAMPA|N|badusumilli@uchicago.edu
+Buchwalter|Samuel|Farjeon|427228|Undergraduate: Economics|4|CMSC 12200|01|01|CLARK|N|buchwalters16@uchicago.edu
+Holmes|Danika|Renee|426345|Undergraduate: Physics|4|CMSC 12200|01|01|GRAHAM|N|danika@uchicago.edu
+Juarez|Pedro||429733|Undergraduate: Mathematics|4|CMSC 12200|01|01|WRIGHT|N|pdrjuarez@uchicago.edu
+Lee|Zi Yang||427559|Undergraduate: Common Year|2|CMSC 12200|01|01|LAWRENCE|N|leeziyang@uchicago.edu
+Parraguez Tala|Alejandro|Ignacio|426410|Undergraduate: Economics|4|CMSC 12200|01|01|HEATH|N|aparraguez@uchicago.edu
+Reynolds|Sydney|Austin|436393|Undergraduate: Statistics|3|CMSC 12200|01|01|CLARK|N|sydreynolds@uchicago.edu
+Dixon|Brandon|Dean|436559|Undergraduate: Economics|3|CMSC 12200|01|02|LAWRENCE|N|bdixon@uchicago.edu
+Hsu|Johnathan|David|448738|Undergraduate: Common Year|2|CMSC 12200|01|02|HO|N|jh97@uchicago.edu
+Lee|Brad||447379|Undergraduate: Undeclared|2|CMSC 12200|01|02|BURNS-HOWARD|N|bradlee@uchicago.edu
+Purdue|Sydney|K|448398|Undergraduate: Common Year|2|CMSC 12200|01|02|HO|N|skpurdue@uchicago.edu
+Wall|Alison|Michelle|436939|Undergraduate: Statistics|3|CMSC 12200|01|02|GRAHAM|N|amwall@uchicago.edu
+Wall|Megan|Elizabeth|436696|Undergraduate: Statistics|3|CMSC 12200|01|02|LA ROSE|N|mewall@uchicago.edu
+Misener|William|Kennedy|448946|Undergraduate: Physics|2|CMSC 12200|01|03|OWEIS|N|wmisener@uchicago.edu
+Smith|Maria|Jensen|428134|Undergraduate: Mathematics|4|CMSC 12200|01|03|GORNY|N|smithmj@uchicago.edu
+Northrup|Graham|Richard|447391|Undergraduate: Common Year|2|CMSC 12200|01|05|DEWEY|N|gnorthrup@uchicago.edu
+Aliamer|Mahmoud|Musa|436288|Undergraduate: Is Hum|3|CMSC 12200|01|06|TODD|N|maliamer@uchicago.edu
+Kim|Gunwoo||426688|Undergraduate: Common Year|2|CMSC 12200|01|06|LAMPERT|N|gwkim@uchicago.edu
+Ostro|Estelle|Ramona|426474|Undergraduate: Physics|4|CMSC 12200|01|06|LA ROSE|N|estelleo@uchicago.edu
+Vasiliou|Michael|J.|438187|Undergraduate: Political Science|3|CMSC 12200|01|06|BURNS-HOWARD|N|mvasiliou@uchicago.edu
+Li|Lisa|Xiuhua|429768|Undergraduate: Economics|3|CMSC 12200|01|07|KANTER|N|lisa11@uchicago.edu
+Cassara|Daniel|Matthew|427112|Undergraduate: Economics|4|CMSC 12200|02|01|LIZARDO|N|dancassara@uchicago.edu
+Grose|Victoria|Anne|426540|Undergraduate: Biological Sciences|4|CMSC 12200|02|01|WEST|N|jozi94@uchicago.edu
+Kenagy|Hannah|Schaefer|428225|Undergraduate: Chemistry|4|CMSC 12200|02|01|KANTER|N|hskenagy@uchicago.edu
+Murillo|Jose|Manuel|436920|Undergraduate: Economics|3|CMSC 12200|02|01|BURNS-HOWARD|N|josemurillo@uchicago.edu
+Ng|Jordan|Manchester|428263|Undergraduate: Public Policy Studies|4|CMSC 12200|02|01|GRAHAM|N|jordanng@uchicago.edu
+Tsypin|Lev|Maximovich|427993|Undergraduate: Biological Sciences|4|CMSC 12200|02|01|CHINNIAH|N|ltsypin@uchicago.edu
+Zacharzewski|Esteban||421903|Undergraduate: Physics|4|CMSC 12200|02|01|HAWK|N|ezachar@uchicago.edu
+Zhou|Philip|Xuan|426676|Undergraduate: Economics|4|CMSC 12200|02|01|GRAHAM|N|philipz@uchicago.edu
+Bernat|Kevin|Bruno|426488|Undergraduate: Physics|4|CMSC 12200|02|02|DEWEY|N|kevinbernat@uchicago.edu
+Bonar|Andrew|Lyndon|427011|Undergraduate: Mathematics|4|CMSC 12200|02|02|GAINES|N|anbonar@uchicago.edu
+Chu|Sheena|Y|426511|Undergraduate: Physics|4|CMSC 12200|02|02|LIZARDO|N|sheenachu@uchicago.edu
+De Loera|Roberto|Carlos|428153|Undergraduate: Biological Sciences|4|CMSC 12200|02|02|LAWRENCE|N|rdeloera@uchicago.edu
+Droster|Alexander|George|426284|Undergraduate: Physics|4|CMSC 12200|02|02|LAMPERT|N|adroster@uchicago.edu
+Hilliard|Ashley|Marie|428447|Undergraduate: Economics|4|CMSC 12200|02|02|LIZARDO|N|amarie@uchicago.edu
+Kyl|Jonathan|Xavier|427935|Undergraduate: Physics|4|CMSC 12200|02|02|LAWRENCE|N|jkyl@uchicago.edu
+Lynch|Connor|Raymond|427236|Undergraduate: Biological Chemistry|4|CMSC 12200|02|02|BLECHSCHMIDT|N|lynchc@uchicago.edu
+Jung|Jaehoon|Kenneth|436566|Undergraduate: Economics|3|CMSC 12200|02|03|GAINES|N|jkjung@uchicago.edu
+Kawatra|Komal||428045|Undergraduate: Economics|4|CMSC 12200|02|03|HO|N|kkawatra@uchicago.edu
+Mao|Cynthia|Jiahui|437628|Undergraduate: Economics|3|CMSC 12200|02|03|DEWEY|N|cynthiamao@uchicago.edu
+McClellan|Julian|Chew|427478|Undergraduate: Economics|4|CMSC 12200|02|03|DEWEY|N|jmcclellan@uchicago.edu
+Sudit|Adam|Bernard|436759|Undergraduate: Economics|3|CMSC 12200|02|03|GAINES|N|asudit@uchicago.edu
+Xu|Steven|Xinhai|426429|Undergraduate: Economics|4|CMSC 12200|02|03|BLECHSCHMIDT|N|stevenxu@uchicago.edu
+Zhu|Andrew|Tse|436522|Undergraduate: Computational And Applied Mathematics|3|CMSC 12200|02|03|LAWRENCE|N|andyz422@uchicago.edu
+Adams|Gregory|Tyler|437141|Undergraduate: Public Policy Studies|3|CMSC 12200|02|04|PAVEL|N|gta@uchicago.edu
+Jones|Gareth|David|436678|Undergraduate: Undeclared|3|CMSC 12200|02|04|LAMPERT|N|garethjones@uchicago.edu
+Kim|Michelle|Seung|426835|Undergraduate: Psychology|4|CMSC 12200|02|04|SNOW|N|michellekim@uchicago.edu
+Levine|Gabriel|Garey|437921|Undergraduate: Fundamentals: Issues/texts|3|CMSC 12200|02|04|TODD|N|gabrielglevine@uchicago.edu
+Meghrouni-Brown|Nolan|Clark|428202|Undergraduate: Physics|4|CMSC 12200|02|04|MOORE|N|nmb@uchicago.edu
+Mendelssohn|David|Shane|436585|Undergraduate: Computational And Applied Mathematics|3|CMSC 12200|02|04|LIZARDO|N|dmendelssohn@uchicago.edu
+Song|Guchuan||437113|Undergraduate: Mathematics|3|CMSC 12200|02|04|SCOTT|N|gsong@uchicago.edu
+Day|Joseph|Richard|448514|Undergraduate: Common Year|2|CMSC 12200|02|05|COHEN|N|joeday@uchicago.edu
+Dunn|Thomas|Summers|448107|Undergraduate: Common Year|2|CMSC 12200|02|05|LAWRENCE|N|tsdunn@uchicago.edu
+Kowalski|Madeline|Heidi|437256|Undergraduate: Common Year|3|CMSC 12200|02|05|PENN|N|madelinekowalski@uchicago.edu
+Lu|Jessica||447424|Undergraduate: Common Year|2|CMSC 12200|02|05|CLARK|N|jlu00@uchicago.edu
+Mahaffie|Shelby|Alice|447613|Undergraduate: Economics|2|CMSC 12200|02|05|HO|N|smahaffie@uchicago.edu
+Neo|Casper|Yao Wai|438257|Undergraduate: Computational And Applied Mathematics|3|CMSC 12200|02|05|SCOTT|N|casperneo@uchicago.edu
+Xu|Jenny|Wei|437385|Undergraduate: Economics|3|CMSC 12200|02|05|LAMPERT|N|jennyxu333@uchicago.edu
+Yan|Jiacheng||434872|Undergraduate: Common Year|2|CMSC 12200|02|05|LAMPERT|N|yanjc@uchicago.edu
+Bailey|Russell|Owen|449504|Undergraduate: Economics|2|CMSC 12200|02|06|PAVEL|N|rubailey@uchicago.edu
+Cai|Renee|Jiachen|437008|Undergraduate: Computational And Applied Mathematics|3|CMSC 12200|02|06|PENN|N|rjcai@uchicago.edu
+Chen|Rui||447183|Undergraduate: Economics|2|CMSC 12200|02|06|GORNY|N|ruichen@uchicago.edu
+Kee|Sam|Qin Xiang|427417|Undergraduate: Mathematics|2|CMSC 12200|02|06|LA ROSE|N|samkeeqx@uchicago.edu
+Pinder|Brianna|C|448439|Undergraduate: Economics|2|CMSC 12200|02|06|COHEN|N|bpinder@uchicago.edu
+Racanelli|James|Martin|426766|Undergraduate: Statistics|4|CMSC 12200|02|06|PAVEL|N|racanellij@uchicago.edu
+Sen|Mayukh||438986|Undergraduate: Economics|3|CMSC 12200|02|06|BURNS-HOWARD|N|mayukhsen@uchicago.edu
+Blackburn|Alyssa|Marie|427635|Undergraduate: Physics|4|CMSC 12200|02|07|KANTER|N|alyssablackburn@uchicago.edu
+Ge|Xinyi||447959|Undergraduate: Common Year|2|CMSC 12200|02|07|BLECHSCHMIDT|N|xinyige@uchicago.edu
+Liu|Ryan||436276|Undergraduate: Economics|3|CMSC 12200|02|07|CHAMPA|N|ryanliu3@uchicago.edu
+Mooers|Victoria|Regina|427881|Undergraduate: Economics|4|CMSC 12200|02|07|CHAMPA|N|victoriamooers@uchicago.edu
+Shenker|Sherry|Mikaela|447854|Undergraduate: Economics|2|CMSC 12200|02|07|HAWK|N|sshenker@uchicago.edu
+Bao|Jullian|Wei|436553|Undergraduate: Statistics|3|CMSC 15100|01|01|SCOTT|N|jullianbao@uchicago.edu
+Bennett-Brandt|Gabriel|Alexander|458816|Undergraduate: Common Year|1|CMSC 15100|01|01|GORNY|N|gbb1@uchicago.edu
+Coleman|Christian|Gabriel|447857|Undergraduate: Common Year|2|CMSC 15100|01|01|BLECHSCHMIDT|N|cgcoleman@uchicago.edu
+Ding|Zhizhen||448673|Undergraduate: Common Year|2|CMSC 15100|01|01|HEATH|N|zding@uchicago.edu
+Fujita|Khai||458231|Undergraduate: Common Year|1|CMSC 15100|01|01|BURNS-HOWARD|N|khaifw@uchicago.edu
+Li|Ruochen||456897|Undergraduate: Common Year|1|CMSC 15100|01|01|LIZARDO|N|ruochenli@uchicago.edu
+Moon|In Se||447730|Undergraduate: Common Year|2|CMSC 15100|01|01|KANTER|N|mooni@uchicago.edu
+Rajakannan|Raman||426471|Undergraduate: Economics|3|CMSC 15100|01|01|HAWK|N|rrajakannan@uchicago.edu
+Schlaak|John|Amburn|456861|Undergraduate: Common Year|1|CMSC 15100|01|01|BLECHSCHMIDT|N|schlaakja@uchicago.edu
+Sengul|Atinc|Cagan|447716|Undergraduate: Physics|2|CMSC 15100|01|01|SCOTT|N|cagan@uchicago.edu
+Tobias|Samantha||448307|Undergraduate: Common Year|2|CMSC 15100|01|01|GORNY|N|tobiass@uchicago.edu
+Whitaker|Joseph|Daniel|426660|Undergraduate: English Lang/lit|2|CMSC 15100|01|01|HAWK|N|josephwhitaker@uchicago.edu
+Xu|Connie||457078|Undergraduate: Common Year|1|CMSC 15100|01|01|LAMPERT|N|conniexu@uchicago.edu
+Yan|Zengqi||448927|Undergraduate: Common Year|2|CMSC 15100|01|01|KANTER|N|zengqiyan@uchicago.edu
+Yu|Gina||447771|Undergraduate: Common Year|2|CMSC 15100|01|01|BLECHSCHMIDT|N|ginayu@uchicago.edu
+Zheng|Austin||447418|Undergraduate: Common Year|2|CMSC 15100|01|01|DEWEY|N|austinz1@uchicago.edu
+Ahn|Jae|B|448091|Undergraduate: Economics|2|CMSC 15100|01|02|MOORE|N|ahnjae@uchicago.edu
+Aldridge|Nicholas|Geoffrey|456803|Undergraduate: Common Year|1|CMSC 15100|01|02|CHAMPA|N|nicholasaldridge@uchicago.edu
+Binion|Aleksander|Herrmann|456278|Undergraduate: Common Year|1|CMSC 15100|01|02|BURNS-HOWARD|N|biniona@uchicago.edu
+Daniels|John|Lothrop|456855|Undergraduate: Common Year|1|CMSC 15100|01|02|GRAHAM|N|jakedaniels@uchicago.edu
+Engels|William|Arthur|456873|Undergraduate: Common Year|1|CMSC 15100|01|02|GORNY|N|tedengels@uchicago.edu
+Friedman|Alexander|Henry|457678|Undergraduate: Common Year|1|CMSC 15100|01|02|LA ROSE|N|alexfriedman115@uchicago.edu
+Fung|Long Fung Frankie||447580|Undergraduate: Common Year|2|CMSC 15100|01|02|PAVEL|N|frankiefung@uchicago.edu
+Huang|Michelle||448915|Undergraduate: Common Year|2|CMSC 15100|01|02|PAVEL|N|michelleh@uchicago.edu
+Jahnke|Max|Ellsworth|448858|Undergraduate: Common Year|2|CMSC 15100|01|02|PENN|N|mjahnke@uchicago.edu
+Johnson|Lucy|Greer|457675|Undergraduate: Common Year|1|CMSC 15100|01|02|BURNS-HOWARD|N|lgjohnson@uchicago.edu
+McNally|Catherine|Rose|456992|Undergraduate: Common Year|1|CMSC 15100|01|02|MYERS|N|crmcnally@uchicago.edu
+Pang|Yuanzhe||456784|Undergraduate: Common Year|1|CMSC 15100|01|02|LAWRENCE|N|yzpang@uchicago.edu
+Tran-Johnson|Erica||457166|Undergraduate: Common Year|1|CMSC 15100|01|02|GORNY|N|erijohnt@uchicago.edu
+Uva|Nicholas|J|456449|Undergraduate: Common Year|1|CMSC 15100|01|02|DEWEY|N|nicholasuva@uchicago.edu
+Xu|Annie|Tongbing|458218|Undergraduate: Common Year|1|CMSC 15100|01|02|BLECHSCHMIDT|N|anniexu@uchicago.edu
+Yin|Chuan||447458|Undergraduate: Physics|2|CMSC 15100|01|02|COHEN|N|chuanyin@uchicago.edu
+Zhang|Ruishan||456955|Undergraduate: Common Year|1|CMSC 15100|01|02|CHAMPA|N|rzhang15@uchicago.edu
+Cheng|Christina|Huixi|456561|Undergraduate: Common Year|1|CMSC 15100|01|03|COHEN|N|chcheng@uchicago.edu
+Cui|Chang||457225|Undergraduate: Common Year|1|CMSC 15100|01|03|BURNS-HOWARD|N|scui729@uchicago.edu
+He|Tyler||457337|Undergraduate: Common Year|1|CMSC 15100|01|03|SNOW|N|ehrelyt@uchicago.edu
+Liu|Steven|Sidi|437610|Undergraduate: Common Year|3|CMSC 15100|01|03|HAWK|N|ssliu@uchicago.edu
+Milstein|Eric||456812|Undergraduate: Common Year|1|CMSC 15100|01|03|LA ROSE|N|emilstein@uchicago.edu
+Monaghan|Patrick|Carter|456578|Undergraduate: Common Year|1|CMSC 15100|01|03|CLARK|N|pcmonaghan@uchicago.edu
+Park|BumSu||426373|Undergraduate: Undeclared|2|CMSC 15100|01|03|DEWEY|N|ebspark1994@uchicago.edu
+Park|Hyungjoo||429749|Undergraduate: Economics|2|CMSC 15100|01|03|WESONGA|N|parkhjjp@uchicago.edu
+Peterson|Kelsey|Mira|457278|Undergraduate: Common Year|1|CMSC 15100|01|03|BURNS-HOWARD|N|kmpeterson@uchicago.edu
+Shi|Ronald|Hua|458170|Undergraduate: Common Year|1|CMSC 15100|01|03|HO|N|ronaldhshi@uchicago.edu
+Silverman|Matthew|Jay|426348|Undergraduate: Mathematics|4|CMSC 15100|01|03|PAVEL|N|msilverman31@uchicago.edu
+Wang|Wilson||457581|Undergraduate: Common Year|1|CMSC 15100|01|03|LAWRENCE|N|wilson97@uchicago.edu
+Wong|Alanna||456745|Undergraduate: Common Year|1|CMSC 15100|01|03|LAMPERT|N|alannawong@uchicago.edu
+Xie|Oliver|Hong|447796|Undergraduate: Mathematics|2|CMSC 15100|01|03|PENN|N|oliverxie@uchicago.edu
+Barnes|Xavier|Christian|426452|Undergraduate: Public Policy Studies|4|CMSC 15100|01|04|GRAHAM|N|barnesx@uchicago.edu
+Bogursky|Eli||456754|Undergraduate: Common Year|1|CMSC 15100|01|04|LAMPERT|N|elibogursky@uchicago.edu
+Choi|Euirim||456406|Undergraduate: Common Year|1|CMSC 15100|01|04|GORNY|N|euirim@uchicago.edu
+Clopton|Larissa|Shea|436030|Undergraduate: Common Year|2|CMSC 15100|01|04|HO|N|cloptla@uchicago.edu
+Cohen|Mark|Philip|456891|Undergraduate: Common Year|1|CMSC 15100|01|04|CLARK|N|markpcohen@uchicago.edu
+Collins|Alec|Joshua|457637|Undergraduate: Common Year|1|CMSC 15100|01|04|LAWRENCE|N|acollins19@uchicago.edu
+Deora|Abhimanyu|Kumar|456407|Undergraduate: Common Year|1|CMSC 15100|01|04|HO|N|akdeora@uchicago.edu
+Donvan|Benjamin|Mishori|457419|Undergraduate: Common Year|1|CMSC 15100|01|04|DEWEY|N|bendonvan@uchicago.edu
+Gaddy|Philip|Trent|458141|Undergraduate: Common Year|1|CMSC 15100|01|04|OWEIS|N|ptgaddy@uchicago.edu
+Grigoryan|Hasmik||456607|Undergraduate: Common Year|1|CMSC 15100|01|04|BLECHSCHMIDT|N|hasgrig@uchicago.edu
+Liu|Shirong||457466|Undergraduate: Common Year|1|CMSC 15100|01|04|CLARK|N|shirongliu@uchicago.edu
+Schlang|Samuel|Perry|456536|Undergraduate: Common Year|1|CMSC 15100|01|04|OWEIS|N|sschlang@uchicago.edu
+Welber|Sophia|Jane|457405|Undergraduate: Common Year|1|CMSC 15100|01|04|HEATH|N|sjwelber@uchicago.edu
+Wilimitis|Drew|Jeremy|447623|Undergraduate: Common Year|2|CMSC 15100|01|04|GRAHAM|N|drewwilimitis@uchicago.edu
+Wu|Wilson|Young|426773|Undergraduate: Economics|4|CMSC 15100|01|04|OWEIS|N|wuw@uchicago.edu
+Wyatt|Sophia|Sweedler|456220|Undergraduate: Common Year|1|CMSC 15100|01|04|CHINNIAH|N|sswyatt@uchicago.edu
+Zhang|Kelly|Wang|437326|Undergraduate: Comp Sci|3|CMSC 15100|01|04|WESONGA|N|kellywzhang@uchicago.edu
+Kline|Daniel|Carl|438927|Undergraduate: Mathematics|3|CMSC 15200|01|01|HAWK|N|danielkline94@uchicago.edu
+Natesh|Sachin|Ram|411706|Undergraduate: Computational And Applied Mathematics|4|CMSC 15200|01|01|LAWRENCE|N|snatesh@uchicago.edu
+Woldenberg|David|Harrison|456928|Undergraduate: Common Year|1|CMSC 15200|01|01|CLARK|N|dwoldenberg1@uchicago.edu
+Xia|Xinyue||447565|Undergraduate: Common Year|2|CMSC 15200|01|01|WRIGHT|N|xinyue@uchicago.edu
+Antley|Eric|McSwain|437259|Undergraduate: Mathematics|3|CMSC 15200|01|02|COHEN|N|eantley@uchicago.edu
+Hainline|Juliette|Lola|448664|Undergraduate: Common Year|2|CMSC 15200|01|02|WEST|N|juliettehainline@uchicago.edu
+Ji|Guozhen||447647|Undergraduate: Economics|2|CMSC 15200|01|02|HO|N|guozhenj@uchicago.edu
+Krishna|Nitin|Anantha|448380|Undergraduate: Mathematics|2|CMSC 15200|01|02|HAWK|N|nakrishna@uchicago.edu
+Dolin|Claire|Penelope|456673|Undergraduate: Common Year|1|CMSC 15200|01|03|OWEIS|N|cdolin@uchicago.edu
+Price|Jeremy|Dwight Stith|458330|Undergraduate: Common Year|1|CMSC 15200|01|03|LAMPERT|N|jdsprice@uchicago.edu
+Thomas|William|Carl|437897|Undergraduate: Mathematics|3|CMSC 15200|01|03|HAWK|N|wcthomas@uchicago.edu
+Wang|Haochen||458307|Undergraduate: Common Year|1|CMSC 15200|01|03|CHAMPA|N|wanghaochen@uchicago.edu
+Xiang|Qiyuan||448818|Undergraduate: Common Year|1|CMSC 15200|01|03|SNOW|N|qiyuanx@uchicago.edu
+Kim|Ji Seung||457465|Undergraduate: Common Year|1|CMSC 15200|01|04|GAINES|N|jiseung@uchicago.edu
+Lin|Charles||436589|Undergraduate: Common Year|2|CMSC 15200|01|04|CLARK|N|charleslin@uchicago.edu
+Pillutla|Ananya||438792|Undergraduate: Physics|3|CMSC 15200|01|04|CHINNIAH|N|apillutla@uchicago.edu
+Zhang|Yihan||456400|Undergraduate: Common Year|1|CMSC 15200|01|04|HEATH|N|yihanzhang@uchicago.edu
+Fosco|Michael|Louis|426795|Undergraduate: Mathematics|4|CMSC 15200|01|05|LAWRENCE|N|mfosco@uchicago.edu
+Gray|Hayley|Rose|458018|Undergraduate: Common Year|1|CMSC 15200|01|05|BLECHSCHMIDT|N|hayleygray@uchicago.edu
+Subramaniam|Pranav|Mahadevan|457677|Undergraduate: Common Year|1|CMSC 15200|01|05|GRAHAM|N|psubramaniam@uchicago.edu
+Xu|Karen||448763|Undergraduate: Comp Sci|2|CMSC 15200|01|05|LA ROSE|N|karenxu@uchicago.edu
+Joshi|Varun|Jayesh|457874|Undergraduate: Common Year|1|CMSC 15200|01|06|HO|N|varunjoshi@uchicago.edu
+Neal|Mitchell|Amadeus|447390|Undergraduate: Common Year|2|CMSC 15200|01|06|HO|N|maneal@uchicago.edu
+Shah|Jigar|Rajesh|456193|Undergraduate: Common Year|1|CMSC 15200|01|06|LAWRENCE|N|jigar@uchicago.edu
+Vallaster|Andrew|Grayson|457847|Undergraduate: Common Year|1|CMSC 15200|01|06|LA ROSE|N|avallaster@uchicago.edu
+Araujo-Simon|Jake||427938|Undergraduate: Is Hum|4|CMSC 15200|01|07|TODD|N|jaraujosimon@uchicago.edu
+Chen|Larry||456778|Undergraduate: Common Year|1|CMSC 15200|01|07|LAWRENCE|N|larrychen@uchicago.edu
+Nascimento|Paulo|Roberto|438779|Undergraduate: Economics|3|CMSC 15200|01|07|OWEIS|N|pnascimento@uchicago.edu
+Qian|Rebecca|Tong|438458|Undergraduate: Common Year|2|CMSC 15200|01|07|OWEIS|N|rebeccaqian@uchicago.edu
+Fernandez|Roberto|Eliseo|448595|Undergraduate: Common Year|2|CMSC 15200|01|08|HEATH|N|rfernandez2@uchicago.edu
+Gollobit|Bryce|Jacob|437105|Undergraduate: Common Year|3|CMSC 15200|01|08|OWEIS|N|th3pho3nix@uchicago.edu
+Lonborg|Nicholas|Miguel Onaga|457145|Undergraduate: Common Year|1|CMSC 15200|01|08|PAVEL|N|nlonborg@uchicago.edu
+Xiong|Elizabeth|Gao|457164|Undergraduate: Common Year|1|CMSC 15200|01|08|BLECHSCHMIDT|N|elizabethxiong@uchicago.edu
+Chen|Liyuan||427106|Undergraduate: Comp Sci|3|CMSC 15200|01|09|PAVEL|N|liyuanchen@uchicago.edu
+Lisnic|Maxim||459285|Undergraduate: Undeclared|1|CMSC 15200|01|09|SEGALL|N|lisnic@uchicago.edu
+Sagarkar|Manasvi|Kiran|447301|Undergraduate: Common Year|2|CMSC 15200|01|09|GAINES|N|manasvi@uchicago.edu
+Sengar|Ani||447942|Undergraduate: Common Year|2|CMSC 15200|01|09|CLARK|N|asengar@uchicago.edu
+Garver|Jeffrey|Robert|448496|Undergraduate: Computational And Applied Mathematics|2|CMSC 15200|01|10|DEWEY|N|jeffgarver@uchicago.edu
+McCornack|Kyle|Patrick|426423|Undergraduate: Psychology|4|CMSC 15200|01|10|CHINNIAH|N|kmccornack@uchicago.edu
+Nakanishi|Amanda|Kimiko|457646|Undergraduate: Common Year|1|CMSC 15200|01|10|HARRIS|N|anakanishi@uchicago.edu
+Sill|Forrest|Randolph|447818|Undergraduate: Common Year|2|CMSC 15200|01|10|GAINES|N|forrestsill@uchicago.edu
+Darling|William||456804|Undergraduate: Common Year|1|CMSC 15200|01|11|GORNY|N|wdarling@uchicago.edu
+Kato|Kishin||438793|Undergraduate: Common Year|2|CMSC 15200|01|11|PAVEL|N|kishin@uchicago.edu
+Liu|Eric|Bikai|437011|Undergraduate: Economics|3|CMSC 15200|01|11|GORNY|N|ericliu@uchicago.edu
+Steed|Matthew|Stoddard|436602|Undergraduate: Mathematics|3|CMSC 15200|01|11|GAINES|N|msteed@uchicago.edu
+Brown|Jacob|Peter|437166|Undergraduate: Anthropology|3|CMSC 15200|01|12|LAMPERT|N|jacobpeterbrown@uchicago.edu
+MacKenzie|Paige|Josephine|426830|Undergraduate: Mathematics|4|CMSC 15200|01|12|MYERS|N|pmack@uchicago.edu
+Pajela|Hannali|M|437089|Undergraduate: Mathematics|3|CMSC 15200|01|12|HAWK|N|hanipajela@uchicago.edu
+Xu|Julia|Wenxin|448128|Undergraduate: Common Year|2|CMSC 15200|01|12|WESONGA|N|juliaxu@uchicago.edu
+Bhanot|Manu||457280|Undergraduate: Common Year|1|CMSC 15200|02|01|HEATH|N|mbhanot@uchicago.edu
+Hendrycks|Daniel|James|448641|Undergraduate: Common Year|2|CMSC 15200|02|01|PAVEL|N|hendrycks@uchicago.edu
+Nakari|May|Iho|458306|Undergraduate: Common Year|1|CMSC 15200|02|01|LIZARDO|N|maynakari@uchicago.edu
+Wilson|Jarnickae|Gabriel Lubin|436934|Undergraduate: Physics|3|CMSC 15200|02|01|GORNY|N|jarnickaew@uchicago.edu
+Adeleke|Isaac|Mosopefoluwa|457226|Undergraduate: Common Year|1|CMSC 15200|02|02|SNOW|N|isaacadlk@uchicago.edu
+Arens|Kieran|Michaela|448080|Undergraduate: Common Year|2|CMSC 15200|02|02|GRAHAM|N|arenskieran@uchicago.edu
+He|Kevin|Yuekai|457071|Undergraduate: Common Year|1|CMSC 15200|02|02|OWEIS|N|kyhe@uchicago.edu
+Markowitz|Alex|Daniels|457676|Undergraduate: Common Year|1|CMSC 15200|02|02|WEST|N|admarko@uchicago.edu
+O'Donnell|Molly|Kathleen|458169|Undergraduate: Common Year|1|CMSC 15200|02|02|OWEIS|N|mollyodonnell@uchicago.edu
+Vallabhaneni|Nischay|Kumar|456279|Undergraduate: Common Year|1|CMSC 15200|02|02|MYERS|N|nischay@uchicago.edu
+Davison|Creston|Frederick|456621|Undergraduate: Common Year|1|CMSC 15200|02|03|GAINES|N|cfdavison@uchicago.edu
+Ding|Valerie|Hao|448830|Undergraduate: Common Year|2|CMSC 15200|02|03|GORNY|N|valerieding@uchicago.edu
+Geada|Robert|Joao|438439|Undergraduate: Physics|3|CMSC 15200|02|03|GORNY|N|rgeada@uchicago.edu
+Grogger|Miles|Joseph|801077|Undergraduate: Common Year|1|CMSC 15200|02|03|OWEIS|N|mgrogger@uchicago.edu
+Iskandarani|Hadi|M|436954|Undergraduate: Common Year|3|CMSC 15200|02|03|LIZARDO|N|hadi@uchicago.edu
+Newman|Lucille|Ilana|458317|Undergraduate: Common Year|1|CMSC 15200|02|03|BURNS-HOWARD|N|newmanlucy@uchicago.edu
+Zhao|Kevin||447506|Undergraduate: Common Year|2|CMSC 15200|02|03|CLARK|N|kzhao@uchicago.edu
+Desatnik Sod|Alejandro||448734|Undergraduate: Economics|2|CMSC 15200|02|04|CLARK|N|adesatnik@uchicago.edu
+Malone|Olivia|Stremlau|456916|Undergraduate: Common Year|1|CMSC 15200|02|04|GAINES|N|omalone@uchicago.edu
+Mehrotra|Isha||456379|Undergraduate: Common Year|1|CMSC 15200|02|04|COHEN|N|imehrotra@uchicago.edu
+Monson|Katherine|Elizabeth|457054|Undergraduate: Common Year|1|CMSC 15200|02|04|LAMPERT|N|kmonson@uchicago.edu
+Herrera|Benjamin|Julian|437156|Undergraduate: Common Year|3|CMSC 15200|02|05|CLARK|N|bherrera@uchicago.edu
+Jin|Qi||448909|Undergraduate: Comp Sci|2|CMSC 15200|02|05|LAMPERT|N|qijin@uchicago.edu
+Jones-Dove|Leslie|Nyake|458234|Undergraduate: Common Year|1|CMSC 15200|02|05|WESONGA|N|ljonesdove@uchicago.edu
+Mazeika|Mantas|R|458819|Undergraduate: Common Year|1|CMSC 15200|02|05|COHEN|N|mantas@uchicago.edu
+Tikoo|Sagar||447676|Undergraduate: Mathematics|2|CMSC 15200|02|05|CLARK|N|stikoo@uchicago.edu
+Zeng|Amy|Victoria|457261|Undergraduate: Common Year|1|CMSC 15200|02|05|CHAMPA|N|amyzeng@uchicago.edu
+Chen|Patrick|Liangda|436769|Undergraduate: Statistics|3|CMSC 15200|02|06|CLARK|N|patricklchen@uchicago.edu
+Cruz|Pablo|Amadeo|458633|Undergraduate: Common Year|1|CMSC 15200|02|06|WRIGHT|N|pablocruz@uchicago.edu
+Skifstad|Gabriela|N|448406|Undergraduate: Common Year|2|CMSC 15200|02|06|KANTER|N|gskifstad@uchicago.edu
+So|Pak Hay Pascal||447214|Undergraduate: Common Year|2|CMSC 15200|02|06|CLARK|N|pso@uchicago.edu
+Sorrells|Pamela|Novella|456438|Undergraduate: Common Year|1|CMSC 15200|02|06|LAMPERT|N|psorrells@uchicago.edu
+Zambrana|Xavier|Omar|448039|Undergraduate: Common Year|2|CMSC 15200|02|06|SNOW|N|xzambrana@uchicago.edu
+Gasaway|Fiona||458328|Undergraduate: Common Year|1|CMSC 15200|02|07|GRAHAM|N|fgasaway@uchicago.edu
+Gold|Jacob|Aaron|456735|Undergraduate: Common Year|1|CMSC 15200|02|07|BLECHSCHMIDT|N|goldjacob29@uchicago.edu
+Ji|Yunpeng||437148|Undergraduate: Physics|3|CMSC 15200|02|07|WEST|N|ypji@uchicago.edu
+Kannappan|Anand||457881|Undergraduate: Common Year|1|CMSC 15200|02|07|CHAMPA|N|akannappan@uchicago.edu
+Rieder|Charlotte|Anna|447625|Undergraduate: Mathematics|2|CMSC 15200|02|07|BLECHSCHMIDT|N|crieder@uchicago.edu
+Saunders|Zachary|Paul|447242|Undergraduate: Comp Sci|2|CMSC 15200|02|07|LAMPERT|N|zsaunders1@uchicago.edu
+Wang|Yi||439792|Undergraduate: Mathematics|2|CMSC 15200|02|07|BURNS-HOWARD|N|samwang8899@uchicago.edu
+Merrill|Aleksander|Joshua|448370|Undergraduate: Common Year|2|CMSC 15200|02|08|KANTER|N|alekmerrill@uchicago.edu
+Packard|Chase|Alden|449188|Undergraduate: Common Year|2|CMSC 15200|02|08|LIZARDO|N|cpackard@uchicago.edu
+Patterson|Tyler|Kent|448705|Undergraduate: Mathematics|2|CMSC 15200|02|08|CHINNIAH|N|tpatterson@uchicago.edu
+Rolock|Reiny||457933|Undergraduate: Common Year|1|CMSC 15200|02|08|SCOTT|N|rrolock@uchicago.edu
+Wang|Jessica|Crystal|456489|Undergraduate: Common Year|1|CMSC 15200|02|08|MYERS|N|jessicawang@uchicago.edu
+Gosling|Andrew|John|427001|Undergraduate: Economics|4|CMSC 15200|02|09|BLECHSCHMIDT|N|ajgosling@uchicago.edu
+Issa|Nadeen|Sami|458634|Undergraduate: Common Year|1|CMSC 15200|02|09|GORNY|N|nadeen@uchicago.edu
+Kuang|Ryan||456458|Undergraduate: Common Year|1|CMSC 15200|02|09|LAWRENCE|N|ryankuang@uchicago.edu
+Rackson|Ian|Clifford|447495|Undergraduate: Common Year|2|CMSC 15200|02|09|COHEN|N|irackson@uchicago.edu
+Ham|Andrew|Nam|456825|Undergraduate: Common Year|1|CMSC 15200|02|10|LIZARDO|N|aham@uchicago.edu
+Jiang|Karl|Hao|448409|Undergraduate: Statistics|2|CMSC 15200|02|10|CHINNIAH|N|karljiang@uchicago.edu
+Kapur|Srishti||438237|Undergraduate: Computational And Applied Mathematics|3|CMSC 15200|02|10|LAMPERT|N|srishtikapur@uchicago.edu
+Soltas|Connor|Matthew|438424|Undergraduate: Common Year|3|CMSC 15200|02|10|LIZARDO|N|csoltas@uchicago.edu
+Bao|Gilbert|William|447840|Undergraduate: Comp Sci|2|CMSC 15200|02|11|SNOW|N|gilbertb@uchicago.edu
+Dhar|Varshant||456426|Undergraduate: Common Year|1|CMSC 15200|02|11|OWEIS|N|varshant@uchicago.edu
+Throsby|Samantha|Alex Jenour|428020|Undergraduate: Comp Sci|4|CMSC 15200|02|11|HO|N|sajthrosby@uchicago.edu
+Lee|Remy|Younghoon|436567|Undergraduate: Statistics|3|CMSC 15200|02|12|PAVEL|N|remy1140@uchicago.edu
+Wang|QiQi||456546|Undergraduate: Common Year|1|CMSC 15200|02|12|CLARK|N|qiqiw@uchicago.edu
+Yang|Jiewon||427532|Undergraduate: Common Year|2|CMSC 15200|02|12|MYERS|N|jenayang@uchicago.edu
+Zhao|Jason|Yujian|447502|Undergraduate: Economics|2|CMSC 15200|02|12|BURNS-HOWARD|N|jasonzhao@uchicago.edu
+Zoeller|Samantha|Grace|447218|Undergraduate: Comp Sci|2|CMSC 15200|02|12|LA ROSE|N|sgz@uchicago.edu
+Agarwal|Vrinda||457674|Undergraduate: Common Year|1|CMSC 15200|03|01|LAWRENCE|N|agarwalv@uchicago.edu
+Bhamani|Aly Khan|Barkat Ali|447753|Undergraduate: Common Year|2|CMSC 15200|03|01|DEWEY|N|alykhanbhamani@uchicago.edu
+Reynolds|Sean||428434|Undergraduate: Mathematics|4|CMSC 15200|03|01|DEWEY|N|seanreynolds@uchicago.edu
+Zhan|Lan||459113|Undergraduate: Common Year|1|CMSC 15200|03|01|BLECHSCHMIDT|N|lanzhan@uchicago.edu
+Piper|Ross|Daniel|447219|Undergraduate: Common Year|2|CMSC 15200|03|02|GAINES|N|rdpiper@uchicago.edu
+Rahman|Raiann|Syed|449157|Undergraduate: Common Year|2|CMSC 15200|03|02|HAWK|N|raiann@uchicago.edu
+Weinshel|Benjamin|Max|456470|Undergraduate: Common Year|1|CMSC 15200|03|02|LAMPERT|N|weinshel@uchicago.edu
+Cheng|Jessica|Rose|456520|Undergraduate: Common Year|1|CMSC 15200|03|03|HAWK|N|jrcheng@uchicago.edu
+Kwak|Willard|Keemoon|436747|Undergraduate: Mathematics|3|CMSC 15200|03|03|BURNS-HOWARD|N|willardkwak@uchicago.edu
+Lin|Claire||457406|Undergraduate: Common Year|1|CMSC 15200|03|03|COHEN|N|linclaire@uchicago.edu
+Oviedo|Bijan|Guillermo|447210|Undergraduate: Economics|2|CMSC 15200|03|03|OWEIS|N|boviedo@uchicago.edu
+Rajaratnam|Krishan||456665|Undergraduate: Common Year|1|CMSC 15200|03|03|LAMPERT|N|krajaratnam@uchicago.edu
+Glanville|Cari|D|448805|Undergraduate: Comp Sci|2|CMSC 15200|03|04|HO|N|cdaviglan@uchicago.edu
+Lai|Tracy|Jian-yi|447952|Undergraduate: Economics|2|CMSC 15200|03|04|HO|N|tracylai@uchicago.edu
+Rezazadeh|Mikhail|Xerxes|436928|Undergraduate: Physics|3|CMSC 15200|03|04|GORNY|N|xerxes@uchicago.edu
+White|Miles|Heard|458077|Undergraduate: Common Year|1|CMSC 15200|03|04|HEATH|N|mhwhite19@uchicago.edu
+Bedian|Daron|R|448427|Undergraduate: Common Year|2|CMSC 15200|03|05|HEATH|N|dbedian@uchicago.edu
+Liu|Sisi||448919|Undergraduate: Economics|2|CMSC 15200|03|05|HEATH|N|sliu7@uchicago.edu
+Mathias|Marshall|Hewitt|456271|Undergraduate: Common Year|1|CMSC 15200|03|05|LIZARDO|N|mhmathias@uchicago.edu
+Chapman|Zachary|Ray|447889|Undergraduate: Common Year|2|CMSC 15200|03|06|GRAHAM|N|zchapman@uchicago.edu
+Jackson|Ariel|Alexandra|447485|Undergraduate: Common Year|2|CMSC 15200|03|06|CHINNIAH|N|arieljackson@uchicago.edu
+LeDeaux|Benjamin|Isaac|448852|Undergraduate: Common Year|1|CMSC 15200|03|06|GRAHAM|N|bledeaux@uchicago.edu
+Ye|Jonathan|Kar-Chuan|457057|Undergraduate: Common Year|1|CMSC 15200|03|06|SNOW|N|jonathanye@uchicago.edu
+Eom|Soyoung||459481|Undergraduate: Undeclared|1|CMSC 15200|03|07|CHAMPA|N|seom@uchicago.edu
+Howlett-Gomez|Gregory|Michael|448276|Undergraduate: Common Year|2|CMSC 15200|03|07|PAVEL|N|ghowlettgomez@uchicago.edu
+Kwon|Jacqueline|Dayoung|426502|Undergraduate: Common Year|2|CMSC 15200|03|07|BLECHSCHMIDT|N|jackiekwon@uchicago.edu
+Melvin|Mark|H|457267|Undergraduate: Common Year|1|CMSC 15200|03|07|SNOW|N|melvinm15@uchicago.edu
+Zhang|Xueqi||448587|Undergraduate: Undeclared|2|CMSC 15200|03|07|BURNS-HOWARD|N|keelyzhang@uchicago.edu
+LeMay|Michael|James|448007|Undergraduate: Common Year|1|CMSC 15200|03|08|COHEN|N|mjlemay@uchicago.edu
+Pan|Richard||440134|Undergraduate: Economics|3|CMSC 15200|03|08|LIZARDO|N|richardpan@uchicago.edu
+Ren|Kevin|I.|448414|Undergraduate: Common Year|2|CMSC 15200|03|08|SNOW|N|renki@uchicago.edu
+Smith|Coleman|Diaz|436665|Undergraduate: Chemistry|3|CMSC 15200|03|08|GAINES|N|smithcd@uchicago.edu
+Wang|Xuefei||447695|Undergraduate: Common Year|2|CMSC 15200|03|08|GAINES|N|mxfwang@uchicago.edu
+Arreluce|Jose|M|447724|Undergraduate: Undeclared|2|CMSC 15200|03|09|BURNS-HOWARD|N|josearreluce@uchicago.edu
+Helfand|Nora|Leigh|427661|Undergraduate: Mathematics|3|CMSC 15200|03|09|SEGALL|N|helfand@uchicago.edu
+Kelly|Wesley|Nolean|427642|Undergraduate: Common Year|2|CMSC 15200|03|09|CHINNIAH|N|wesleyk@uchicago.edu
+Reddy|Chethan|Nukalapati|426273|Undergraduate: Statistics|4|CMSC 15200|03|09|CHAMPA|N|reddyche@uchicago.edu
+Tu|Juliana||456837|Undergraduate: Common Year|1|CMSC 15200|03|09|LIZARDO|N|julianatu@uchicago.edu
+Conrado|Alexandra|Maia|456910|Undergraduate: Common Year|1|CMSC 15200|03|10|PAVEL|N|amconrado@uchicago.edu
+El-Hage|Joseph|Francois|456428|Undergraduate: Common Year|1|CMSC 15200|03|10|HAWK|N|elhage@uchicago.edu
+Park|Hyo Jin||447669|Undergraduate: Common Year|2|CMSC 15200|03|10|SEGALL|N|jinniepaark@uchicago.edu
+Shen|Luna||437286|Undergraduate: Economics|3|CMSC 15200|03|10|DEWEY|N|shenl@uchicago.edu
+Turner|Joshua|Peter|447298|Undergraduate: Common Year|2|CMSC 15200|03|10|GRAHAM|N|joshturner@uchicago.edu
+Haviza|Parker|Vincent|447904|Undergraduate: Comp Sci|2|CMSC 15200|03|11|HAWK|N|phaviza@uchicago.edu
+Mastrogiacomo|Claudia|Isabella|448312|Undergraduate: Common Year|2|CMSC 15200|03|11|GAINES|N|cmastrogiacomo@uchicago.edu
+So|Aaron|Geelon|438589|Undergraduate: Mathematics|3|CMSC 15200|03|11|COHEN|N|geelon@uchicago.edu
+Wei|Matthew|Jeremy|447231|Undergraduate: Philosophy|2|CMSC 15200|03|11|HO|N|mway@uchicago.edu
+Dunn|Kelsey|Lynn|447873|Undergraduate: Common Year|2|CMSC 15200|03|12|HO|N|kelseydunn@uchicago.edu
+Kim|Shin|Wook|449287|Undergraduate: Mathematics|2|CMSC 15200|03|12|BURNS-HOWARD|N|shink1@uchicago.edu
+Anderson|Elliott|Kyle|456880|Undergraduate: Common Year|1|CMSC 16200|01|01|PAVEL|N|ekanderson@uchicago.edu
+Dhanoa|Jaideep||802835|Undergraduate: Common Year|1|CMSC 16200|01|01|GAINES|N|jdhanoa@uchicago.edu
+Garfinkle|Miranda|Beatrice|800195|Undergraduate: Common Year|2|CMSC 16200|01|01|CHAMPA|N|garfinkle@uchicago.edu
+Green|William|Wyatt|427427|Undergraduate: Mathematics|3|CMSC 16200|01|01|PENN|N|wwgreen@uchicago.edu
+Klinger|David|Maxwell|456521|Undergraduate: Common Year|1|CMSC 16200|01|01|COHEN|N|dmklinger@uchicago.edu
+Klyman|Calvin||456750|Undergraduate: Common Year|1|CMSC 16200|01|01|DEWEY|N|cklyman@uchicago.edu
+Korgel|Hunter|Larson|428171|Undergraduate: Physics|4|CMSC 16200|01|01|DEWEY|N|hunterkorgel@uchicago.edu
+Lee|Chia-Hsun||457297|Undergraduate: Common Year|1|CMSC 16200|01|01|OWEIS|N|chl@uchicago.edu
+Ling|Siyang||447643|Undergraduate: Common Year|2|CMSC 16200|01|01|DEWEY|N|hypermania@uchicago.edu
+Liu|Zixiong||447426|Undergraduate: Mathematics|2|CMSC 16200|01|01|BURNS-HOWARD|N|lzx@uchicago.edu
+Lundell|John|Kieran|456441|Undergraduate: Common Year|1|CMSC 16200|01|01|COHEN|N|jlundell@uchicago.edu
+Mans|Hayden|Lee|456728|Undergraduate: Common Year|1|CMSC 16200|01|01|WRIGHT|N|haydenm@uchicago.edu
+Mo|Warren|Kang|436641|Undergraduate: Computational And Applied Mathematics|3|CMSC 16200|01|01|LAWRENCE|N|warrenmo@uchicago.edu
+Owens|Geoffrey|H|447641|Undergraduate: Common Year|2|CMSC 16200|01|01|LAMPERT|N|geoffowens@uchicago.edu
+Smith|Alexander|G|447979|Undergraduate: Common Year|2|CMSC 16200|01|01|HEATH|N|alexsmith@uchicago.edu
+Sun|Gregory|Kai-Le|448396|Undergraduate: Mathematics|2|CMSC 16200|01|01|LAWRENCE|N|gsun1@uchicago.edu
+Tuan|Brian||449197|Undergraduate: Common Year|2|CMSC 16200|01|01|CHAMPA|N|btuan@uchicago.edu
+Verdeja Herms|Yan|A|448866|Undergraduate: Comp Sci|2|CMSC 16200|01|01|COHEN|N|yanverdeja@uchicago.edu
+Wan|Zhengqu||447940|Undergraduate: Mathematics|2|CMSC 16200|01|01|WEST|N|wanzhengqu@uchicago.edu
+Wang|Houze||447310|Undergraduate: Common Year|2|CMSC 16200|01|01|HO|N|wanghouze@uchicago.edu
+Aron|Alexander|Michael|457260|Undergraduate: Common Year|1|CMSC 16200|01|02|HARRIS|N|amaron@uchicago.edu
+Cho|Andrew|Unjae|456712|Undergraduate: Common Year|1|CMSC 16200|01|02|HAWK|N|andrewcho@uchicago.edu
+Field-Thompson|William|Ames LeFevre|448132|Undergraduate: Undeclared|2|CMSC 16200|01|02|BURNS-HOWARD|N|willft@uchicago.edu
+Kyritsis|Phoebe||458629|Undergraduate: Common Year|1|CMSC 16200|01|02|GORNY|N|pkyritsis13@uchicago.edu
+Lee|Chaihyun||456376|Undergraduate: Common Year|1|CMSC 16200|01|02|CHAMPA|N|clee0505@uchicago.edu
+Lee|Katrina|Ayala|456299|Undergraduate: Common Year|1|CMSC 16200|01|02|CLARK|N|klee97@uchicago.edu
+Liang|Lucas|Jordan|448755|Undergraduate: Common Year|2|CMSC 16200|01|02|HO|N|ljliang@uchicago.edu
+Marco|Conor|Ashton|457880|Undergraduate: Common Year|1|CMSC 16200|01|02|CHAMPA|N|conormarco@uchicago.edu
+Mehrotra|Devshi||458628|Undergraduate: Common Year|1|CMSC 16200|01|02|DEWEY|N|dmehrotra@uchicago.edu
+Melana-Dayton|Pablo||457257|Undergraduate: Common Year|1|CMSC 16200|01|02|GAINES|N|pablomd@uchicago.edu
+Morrison|Daniel|Gareth|457174|Undergraduate: Common Year|1|CMSC 16200|01|02|COHEN|N|dgmorrison@uchicago.edu
+O'Donnell|Jackson|Humphrey|456817|Undergraduate: Common Year|1|CMSC 16200|01|02|MYERS|N|jhodonnell@uchicago.edu
+Sheu|Shannon||457685|Undergraduate: Common Year|1|CMSC 16200|01|02|HEATH|N|ssheu@uchicago.edu
+Agrawal|Sarthak|Seemanjeev|447447|Undergraduate: Common Year|2|CMSC 16200|01|03|PAVEL|N|sarthak@uchicago.edu
+Bejarano Rayo|Diego|Andres|447883|Undergraduate: Common Year|2|CMSC 16200|01|03|PAVEL|N|diegob96@uchicago.edu
+Li|Sijia|Scarlett|440855|Undergraduate: Computational And Applied Mathematics|3|CMSC 16200|01|03|CLARK|N|scarlettli@uchicago.edu
+Milbauer|Jeremiah|Lev|456847|Undergraduate: Common Year|1|CMSC 16200|01|03|PAVEL|N|jmilbauer@uchicago.edu
+Noursi|David|Paul|458164|Undergraduate: Common Year|1|CMSC 16200|01|03|BLECHSCHMIDT|N|dnoursi@uchicago.edu
+Zhang|Allan|Tao|413871|Undergraduate: Economics|4|CMSC 16200|01|03|LAMPERT|N|zhangallan@uchicago.edu
+Acevedo|Jonathan|Michael|438011|Undergraduate: Law, Letters, Society|3|CMSC 22300|01||GORNY|N|acevedoj@uchicago.edu
+Aizuss|Amanda|Lindsay|436305|Undergraduate: Comp Sci|3|CMSC 22300|01||OWEIS|N|amandaaizuss@uchicago.edu
+Bederman|Evan|Daniel|426956|Undergraduate: Comp Sci|4|CMSC 22300|01||COHEN|N|bederman@uchicago.edu
+Bogdan|Robert|Joseph|436723|Undergraduate: Common Year|3|CMSC 22300|01||DEWEY|N|rjbogdan@uchicago.edu
+Brodheim|Hannah|Ruth|436838|Undergraduate: Comp Sci|3|CMSC 22300|01||LIZARDO|N|brodheim@uchicago.edu
+Chang|Alice|Jenlin|428028|Undergraduate: Comp Sci|4|CMSC 22300|01||LAWRENCE|N|ajchang@uchicago.edu
+Charles|Owen|Azor|436435|Undergraduate: Mathematics|3|CMSC 22300|01||PAVEL|N|ocharles@uchicago.edu
+Clemens|Jenna|Lee|426286|Undergraduate: Comp Sci|4|CMSC 22300|01||LIZARDO|N|jlclemens@uchicago.edu
+Collin|Teodoro|Fields|447680|Undergraduate: Common Year|2|CMSC 22300|01||LAWRENCE|N|teocollin@uchicago.edu
+Dobbs|Michelle|Lynn|437007|Undergraduate: Comp Sci|3|CMSC 22300|01||LANDSTROM|N|mdobbs@uchicago.edu
+Giron|Santiago|Stanwood|438483|Undergraduate: Common Year|3|CMSC 22300|01||DEWEY|N|giron@uchicago.edu
+Gowani|Zakir|Rajab|427637|Undergraduate: Comp Sci|4|CMSC 22300|01||GAINES|N|zgowani@uchicago.edu
+Halperin|Erik|Louis|428109|Undergraduate: Comp Sci|4|CMSC 22300|01||GRAHAM|N|erikhalperin@uchicago.edu
+Hanson|Cody|John|436348|Undergraduate: Comp Sci|3|CMSC 22300|01||GORNY|N|cjohnhanson@uchicago.edu
+Hanson|Richard|Luis|427085|Undergraduate: Comp Sci|4|CMSC 22300|01||PAVEL|N|rlhanson@uchicago.edu
+Hwang|Allison||427110|Undergraduate: Comp Sci|4|CMSC 22300|01||BURNS-HOWARD|N|allisonhwang@uchicago.edu
+Lee|Amanda|Michelle|438300|Undergraduate: Computational And Applied Mathematics|3|CMSC 22300|01||LA ROSE|N|amandamlee@uchicago.edu
+Lee|Jonathan|Haw|437099|Undergraduate: Comp Sci|3|CMSC 22300|01||OWEIS|N|jonathanlee@uchicago.edu
+Levy|Elliot|Matthew|438530|Undergraduate: Mathematics|3|CMSC 22300|01||CHAMPA|N|elevy411@uchicago.edu
+Li|Xiyu|Sonja|447876|Undergraduate: Common Year|2|CMSC 22300|01||WESONGA|N|xsonja@uchicago.edu
+Liu|Wenxuan||436292|Undergraduate: Mathematics|3|CMSC 22300|01||BURNS-HOWARD|N|liuwenxuan@uchicago.edu
+Liu|Yunchen||427235|Undergraduate: Economics|4|CMSC 22300|01||COHEN|N|yunchen@uchicago.edu
+Lothan|Joseph|Aaron|426360|Undergraduate: Undeclared|3|CMSC 22300|01||LANDSTROM|N|lothan@uchicago.edu
+Lu|Kathleen|Yipei|436568|Undergraduate: Comp Sci|3|CMSC 22300|01||OWEIS|N|kathleenl@uchicago.edu
+Lu|Lucia||428111|Undergraduate: Comp Sci|4|CMSC 22300|01||BLECHSCHMIDT|N|lucialu94@uchicago.edu
+Luan|Sifei||436737|Undergraduate: Computational And Applied Mathematics|2|CMSC 22300|01||PAVEL|N|luans@uchicago.edu
+Malao|Ivy||436570|Undergraduate: Economics|3|CMSC 22300|01||OWEIS|N|imalao@uchicago.edu
+Malitz|Thomas|James|437128|Undergraduate: Comp Sci|3|CMSC 22300|01||GRAHAM|N|tmalitz@uchicago.edu
+Maswood|Nasr|Syed|436735|Undergraduate: Comp Sci|3|CMSC 22300|01||BLECHSCHMIDT|N|nmaswood@uchicago.edu
+Matthews III|William|Cannon|427087|Undergraduate: Comp Sci|4|CMSC 22300|01||BLECHSCHMIDT|N|cannonmatthews@uchicago.edu
+Millman|Michael|Adam|421454|Undergraduate: Economics|4|CMSC 22300|01||SEGALL|N|mimillman@uchicago.edu
+Moresco|Catherine|Marie|426760|Undergraduate: Physics|4|CMSC 22300|01||SEGALL|N|cmoresco@uchicago.edu
+Ni|Bob|Liu|427928|Undergraduate: Economics|4|CMSC 22300|01||HO|N|bobni@uchicago.edu
+Ni|Daniel|Michael|436778|Undergraduate: Comp Sci|3|CMSC 22300|01||HO|N|danielni@uchicago.edu
+Norris|Clayton|Nicholas|427688|Undergraduate: Linguistics|4|CMSC 22300|01||SNOW|N|cnnorris@uchicago.edu
+Prasad|Atul||436540|Undergraduate: Mathematics|3|CMSC 22300|01||COHEN|N|atulprasad@uchicago.edu
+Ramseyer|Geoffrey|Daniel|436875|Undergraduate: Comp Sci|3|CMSC 22300|01||HO|N|ramseyer@uchicago.edu
+Rohrer|Benjamin|Joseph|426733|Undergraduate: Comp Sci|4|CMSC 22300|01||COHEN|N|bjr@uchicago.edu
+Ross|Michelle|Lauren|438512|Undergraduate: Comp Sci|3|CMSC 22300|01||HAWK|N|mlr@uchicago.edu
+Rubenstein|Daniel|Nicholas|438419|Undergraduate: Mathematics|3|CMSC 22300|01||PAVEL|N|danielrubenstein@uchicago.edu
+Sadowski|Aidan|Maxwell|438281|Undergraduate: Common Year|3|CMSC 22300|01||KANTER|N|amsadowski@uchicago.edu
+Saucedo|Cristian||427617|Undergraduate: Economics|4|CMSC 22300|01||BURNS-HOWARD|N|saucedoc@uchicago.edu
+Schaer|Aaron|Jacob|428156|Undergraduate: Comp Sci|4|CMSC 22300|01||DEWEY|N|aaschaer@uchicago.edu
+Segan|Samuel|Alexander|436226|Undergraduate: Comp Sci|3|CMSC 22300|01||DEWEY|N|samsegan@uchicago.edu
+Sitwala|Amy|Rajiv|437017|Undergraduate: Economics|3|CMSC 22300|01||LAMPERT|N|asitwala@uchicago.edu
+Suarez|Sayri|Hui Shou|428226|Undergraduate: Comp Sci|4|CMSC 22300|01||BURNS-HOWARD|N|sayris@uchicago.edu
+Teo|Chen Hui|George|412572|Undergraduate: Comp Sci|4|CMSC 22300|01||BLECHSCHMIDT|N|georgeteo@uchicago.edu
+Wang|Bowen||447536|Undergraduate: Common Year|2|CMSC 22300|01||WEST|N|bowenwang1996@uchicago.edu
+Warner|Madeline|Kay|427619|Undergraduate: Comp Sci|4|CMSC 22300|01||KANTER|N|warnermk@uchicago.edu
+Xia|Liyu||426298|Undergraduate: Mathematics|4|CMSC 22300|01||PENN|N|jimmyxia@uchicago.edu
+Yang|Andrew||426319|Undergraduate: Comp Sci|4|CMSC 22300|01||GORNY|N|ayang16@uchicago.edu
+Yang|Yangxinye||426976|Undergraduate: Comp Sci|4|CMSC 22300|01||OWEIS|N|sophiayang@uchicago.edu
+Yehoshua|Ron|Offer|437707|Undergraduate: Mathematics|3|CMSC 22300|01||CHAMPA|N|ronyehoshua@uchicago.edu
+Zen|Kevin|Lin|436386|Undergraduate: Economics|3|CMSC 22300|01||LIZARDO|N|kzen@uchicago.edu
+Zhao|Jason||437163|Undergraduate: Comp Sci|3|CMSC 22300|01||PENN|N|jzhao94@uchicago.edu
+Alhadi|John|Phillip|436855|Undergraduate: Mathematics|3|CMSC 23010|01||GORNY|N|jalhadi@uchicago.edu
+Balasubramanian|Kaavya||427911|Undergraduate: Economics|4|CMSC 23010|01||CLARK|N|kbalan@uchicago.edu
+Brooks|Edward|Bordeau|801803|Undergraduate: Comp Sci|4|CMSC 23010|01||SNOW|N|slights@uchicago.edu
+Callender|Brandon|Marcus|428067|Undergraduate: Comp Sci|4|CMSC 23010|01||DEWEY|N|bmcallender@uchicago.edu
+Compton|Nathan|Taylor|436906|Undergraduate: Comp Sci|3|CMSC 23010|01||DEWEY|N|nors@uchicago.edu
+Crespo|Anthony|Ramon|427609|Undergraduate: Comp Sci|4|CMSC 23010|01||LANDSTROM|N|acrespo@uchicago.edu
+Ehudin|Lee|Jacob|437031|Undergraduate: Comp Sci|3|CMSC 23010|01||PAVEL|N|ehudinl@uchicago.edu
+Ghandhi|Kira|Shirin|428021|Undergraduate: Comp Sci|4|CMSC 23010|01||GAINES|N|kghandhi@uchicago.edu
+Giron|Santiago|Stanwood|438483|Undergraduate: Common Year|3|CMSC 23010|01||DEWEY|N|giron@uchicago.edu
+Gonzalez|Anthony||448684|Undergraduate: Comp Sci|2|CMSC 23010|01||KANTER|N|agonzalez8@uchicago.edu
+Halperin|Erik|Louis|428109|Undergraduate: Comp Sci|4|CMSC 23010|01||GRAHAM|N|erikhalperin@uchicago.edu
+Hamilton|Ryan|Anthony|419452|Undergraduate: Comp Sci|3|CMSC 23010|01||HAWK|N|ryhamz@uchicago.edu
+Hays|Alex|William|420726|Undergraduate: Comp Sci|4|CMSC 23010|01||GRAHAM|N|ahays@uchicago.edu
+Hughey|Curtis|Robert|428188|Undergraduate: Mathematics|4|CMSC 23010|01||COHEN|N|hugheyc@uchicago.edu
+Jenkins|Zachary|Tyler|426842|Undergraduate: Comp Sci|4|CMSC 23010|01||OWEIS|N|zachj@uchicago.edu
+King|Brennan|Harris|428201|Undergraduate: Economics|4|CMSC 23010|01||CHAMPA|N|brennanhking@uchicago.edu
+Langworthy|Robert|Laurence Mark|420814|Undergraduate: Comp Sci|4|CMSC 23010|01||HAWK|N|rlangworthy@uchicago.edu
+Norris|Clayton|Nicholas|427688|Undergraduate: Linguistics|4|CMSC 23010|01||SNOW|N|cnnorris@uchicago.edu
+Parker|Daniel|Kurt|438392|Undergraduate: Comp Sci|3|CMSC 23010|01||CLARK|N|dkparker@uchicago.edu
+Plotkin|David|Ariel|425445|Geophysical Sciences||CMSC 23010|01|||N|dplotkin@uchicago.edu
+Rahman|Tasnim||427896|Undergraduate: Comp Sci|4|CMSC 23010|01||OWEIS|N|rahmant@uchicago.edu
+Remissong|Thomas|Christian|427240|Undergraduate: Comp Sci|4|CMSC 23010|01||BURNS-HOWARD|N|tcremissong@uchicago.edu
+Schaer|Aaron|Jacob|428156|Undergraduate: Comp Sci|4|CMSC 23010|01||DEWEY|N|aaschaer@uchicago.edu
+Silverman|Jacob|Drouet|426434|Undergraduate: Comp Sci|4|CMSC 23010|01||MYERS|N|jdsilverman@uchicago.edu
+Spradlin|Mitchell|Henry|428078|Undergraduate: Physics|4|CMSC 23010|01||BLECHSCHMIDT|N|mhs@uchicago.edu
+Tucholski|Jakub||397498|Undergraduate: Comp Sci|3|CMSC 23010|01||LIZARDO|N|jtuchol@uchicago.edu
+Wang|Victor|Jason|428116|Undergraduate: Comp Sci|4|CMSC 23010|01||LAWRENCE|Y|victorwang@uchicago.edu
+Warner|Madeline|Kay|427619|Undergraduate: Comp Sci|4|CMSC 23010|01||KANTER|N|warnermk@uchicago.edu
+Andreescu|Mihai Iulian||447965|Undergraduate: Comp Sci|2|CMSC 23200|01||COHEN|N|mandreescu@uchicago.edu
+Asai|Anne|Margaret|448034|Undergraduate: Common Year|2|CMSC 23200|01||SEGALL|N|aasai@uchicago.edu
+Berra|Zoe|Rose|438899|Undergraduate: Comp Sci|3|CMSC 23200|01||HO|N|zberra@uchicago.edu
+Bhargava|Rohin||448388|Undergraduate: Common Year|2|CMSC 23200|01||HEATH|N|rohin@uchicago.edu
+Bianchini|Jonathan|P|438108|Undergraduate: Comp Sci|3|CMSC 23200|01||PAVEL|N|jbianchini@uchicago.edu
+Burroughs|Jacob|Will|448442|Undergraduate: Common Year|2|CMSC 23200|01||SEGALL|N|burroughsjw@uchicago.edu
+Chalupnik|Michelle|Van Bogaert|437021|Undergraduate: Physics|3|CMSC 23200|01||GRAHAM|N|mvchalupnik@uchicago.edu
+Chitty|Zoe|Lynn|447559|Undergraduate: Comp Sci|2|CMSC 23200|01||LAMPERT|N|zlchitty@uchicago.edu
+Clemens|Jenna|Lee|426286|Undergraduate: Comp Sci|4|CMSC 23200|01||LIZARDO|N|jlclemens@uchicago.edu
+Duncan|Paul|Raymond|427666|Undergraduate: Mathematics|4|CMSC 23200|01||BURNS-HOWARD|N|duncanp@uchicago.edu
+Eidsmoe|Christopher|Eric|436676|Undergraduate: Comp Sci|3|CMSC 23200|01||GRAHAM|N|ceidsmoe@uchicago.edu
+Espinosa|Alexander|Rafael|449878|Undergraduate: Comp Sci|2|CMSC 23200|01||MYERS|N|arespin@uchicago.edu
+Foley|Bennett|C|448832|Undergraduate: Undeclared|2|CMSC 23200|01||BURNS-HOWARD|N|bf2087@uchicago.edu
+Freese|Kevin|Michael|428030|Undergraduate: Comp Sci|4|CMSC 23200|01||CLARK|N|kevfreese@uchicago.edu
+Grossbarth|Melissa|Faith|426396|Undergraduate: Mathematics|4|CMSC 23200|01||HAWK|N|mgrossbarth@uchicago.edu
+Gupta|Panya||436331|Undergraduate: Common Year|3|CMSC 23200|01||DEWEY|N|panyagupta@uchicago.edu
+Haar|Jennifer|E|447328|Undergraduate: Common Year|2|CMSC 23200|01||COHEN|N|jhaar@uchicago.edu
+Holmgren|Kimberly|Maria|448376|Undergraduate: Common Year|2|CMSC 23200|01||COHEN|N|kimholmgren@uchicago.edu
+Huh|Stephen|Jung|436901|Undergraduate: Comp Sci|2|CMSC 23200|01||WESONGA|N|stephenhuh@uchicago.edu
+Iwata|Mitsue||449981|Computational Analysis & Public Policy||CMSC 23200|01|||N|mitsueiwata@uchicago.edu
+Jablon|Kyle||436406|Undergraduate: Economics|3|CMSC 23200|01||KANTER|N|jablonk@uchicago.edu
+Jochmann|Neal|Michael|437290|Undergraduate: Common Year|3|CMSC 23200|01||OWEIS|N|nmjochmann@uchicago.edu
+Landgrebe|Mark|Kevin|426276|Undergraduate: Comp Sci|4|CMSC 23200|01||GRAHAM|N|mlandgrebe@uchicago.edu
+Lax|David|Benjamin|448793|Undergraduate: Common Year|2|CMSC 23200|01||DEWEY|N|dlax@uchicago.edu
+Li|Xiyu|Sonja|447876|Undergraduate: Common Year|2|CMSC 23200|01||WESONGA|N|xsonja@uchicago.edu
+Lim|Leeho||436980|Undergraduate: Comp Sci|3|CMSC 23200|01||WRIGHT|N|leeholim@uchicago.edu
+Liu|Mutian||436457|Undergraduate: Comp Sci|3|CMSC 23200|01||GORNY|N|mutian@uchicago.edu
+Loeber|John|Nicholas|420224|Undergraduate: Statistics|4|CMSC 23200|01||SEGALL|N|jloeber@uchicago.edu
+Lu|Grace|Joy|437002|Undergraduate: Comp Sci|3|CMSC 23200|01||BURNS-HOWARD|N|gracelu@uchicago.edu
+Lu|Kathleen|Yipei|436568|Undergraduate: Comp Sci|3|CMSC 23200|01||OWEIS|N|kathleenl@uchicago.edu
+Martinez|Julian|David|428230|Undergraduate: Mathematics|4|CMSC 23200|01||HARRIS|N|j3martinez@uchicago.edu
+Meagher|Daniel|Avery|437579|Undergraduate: Comp Sci|3|CMSC 23200|01||GORNY|N|dmeagher@uchicago.edu
+Nabar|Maitreyi|Santosh|447663|Undergraduate: Common Year|2|CMSC 23200|01||LAWRENCE|N|mainabar@uchicago.edu
+Newman|Judah|Gershom|447599|Undergraduate: Undeclared|2|CMSC 23200|01||FORDE|N|jgnewman@uchicago.edu
+Pai|Jacqueline|Hae Sook Kim|448099|Undergraduate: Common Year|2|CMSC 23200|01||OWEIS|N|jpai@uchicago.edu
+Peng|Kangqiao||438385|Undergraduate: Economics|3|CMSC 23200|01||DEWEY|N|kangqiao@uchicago.edu
+Peters|Tristan|Bailey|447792|Undergraduate: Common Year|2|CMSC 23200|01||GAINES|N|tristanpeters@uchicago.edu
+Qian-Wang|Alexander|James|436425|Undergraduate: Statistics|3|CMSC 23200|01||HO|N|alexqw@uchicago.edu
+Reinherz|Emily|Meilan|437095|Undergraduate: Comp Sci|3|CMSC 23200|01||GORNY|N|ereinherz@uchicago.edu
+Rey|Samantha|T|448353|Undergraduate: Comp Sci|2|CMSC 23200|01||HEATH|N|sinkingrowboats@uchicago.edu
+Sevart|Jacob|Baer|437078|Undergraduate: Comp Sci|4|CMSC 23200|01||SNOW|N|jacobsevart@uchicago.edu
+Silverman|Jacob|Drouet|426434|Undergraduate: Comp Sci|4|CMSC 23200|01||MYERS|N|jdsilverman@uchicago.edu
+Sonawalla|Aneesa||428056|Undergraduate: Physics|4|CMSC 23200|01||GRAHAM|N|aneesasonawalla@uchicago.edu
+Sostarics|Thomas|Nathan|447933|Undergraduate: Comp Sci|2|CMSC 23200|01||LAMPERT|N|tsostarics@uchicago.edu
+Tag|David|Youngmin|436734|Undergraduate: Comp Sci|3|CMSC 23200|01||CHINNIAH|N|dytag@uchicago.edu
+Tse|Kevin|Tze Him|448515|Undergraduate: Common Year|2|CMSC 23200|01||CHAMPA|N|kevintse@uchicago.edu
+Tucholski|Jakub||397498|Undergraduate: Comp Sci|3|CMSC 23200|01||LIZARDO|N|jtuchol@uchicago.edu
+Zhao|Jason||437163|Undergraduate: Comp Sci|3|CMSC 23200|01||PENN|N|jzhao94@uchicago.edu
+Zou|Yuxiao||448074|Undergraduate: Common Year|2|CMSC 23200|01||GAINES|N|yuxiaozou@uchicago.edu
+Arbaugh|Jonathon|William|448765|Undergraduate: Undeclared|2|CMSC 23300|01||BURNS-HOWARD|N|jarbaugh@uchicago.edu
+Bogdan|Robert|Joseph|436723|Undergraduate: Common Year|3|CMSC 23300|01||DEWEY|N|rjbogdan@uchicago.edu
+Calder|Jack|Finneran|447342|Undergraduate: Common Year|2|CMSC 23300|01||CHAMPA|N|jfcalder@uchicago.edu
+Castro|Jonathan||448404|Undergraduate: Comp Sci|2|CMSC 23300|01||GORNY|N|jcastro64@uchicago.edu
+Chen|Mengyuan||416333|Undergraduate: Comp Sci|3|CMSC 23300|01||KANTER|N|mengyuanchen@uchicago.edu
+Compton|Nathan|Taylor|436906|Undergraduate: Comp Sci|3|CMSC 23300|01||DEWEY|N|nors@uchicago.edu
+Dougherty|Patrick|Gillen|436308|Undergraduate: Comp Sci|3|CMSC 23300|01||LAMPERT|N|doughertypg@uchicago.edu
+Douglas|Tynan|Maurice|436423|Undergraduate: Comp Sci|3|CMSC 23300|01||PENN|N|tynandouglas@uchicago.edu
+Garcia|Andoni|Michael|427877|Undergraduate: Biological Sciences|4|CMSC 23300|01||GRAHAM|N|andoni@uchicago.edu
+Gong|Chengguang||459149|Undergraduate: Undeclared|1|CMSC 23300|01||SEGALL|N|cggong@uchicago.edu
+Graybeal|William|Kung|449588|Undergraduate: Comp Sci|2|CMSC 23300|01||PAVEL|N|wkgraybeal@uchicago.edu
+Guo|Ziyue||449284|Undergraduate: Common Year|2|CMSC 23300|01||CHAMPA|N|jasonguo@uchicago.edu
+Halford|Noah|Henry Jacobs|426543|Undergraduate: Physics|4|CMSC 23300|01||SNOW|N|nhalford@uchicago.edu
+Hong|Kevin|Yimeng|436246|Undergraduate: Common Year|3|CMSC 23300|01||BURNS-HOWARD|N|khong@uchicago.edu
+Hupp|Erik|Edmund|448513|Undergraduate: Common Year|2|CMSC 23300|01||CHAMPA|N|ehupp@uchicago.edu
+Huynh|Tri|Quoc|452274|Computer Science||CMSC 23300|01|||N|trihuynh@uchicago.edu
+Ierugan|Delia|Anda|448119|Undergraduate: Undeclared|2|CMSC 23300|01||GAINES|N|dierugan@uchicago.edu
+Iouchkov|Mikhail||447414|Undergraduate: Mathematics|2|CMSC 23300|01||BURNS-HOWARD|N|iouchkov@uchicago.edu
+Jiao|Victor|L|448928|Undergraduate: Comp Sci|2|CMSC 23300|01||CHAMPA|N|victorjiao@uchicago.edu
+Ko|Sydney|Deborah|447365|Undergraduate: Comp Sci|2|CMSC 23300|01||WESONGA|N|kosydney@uchicago.edu
+Komissopoulos|Sotirios||437489|Undergraduate: Mathematics|3|CMSC 23300|01||KANTER|N|skomissopoulos@uchicago.edu
+Kupets|Charles|Boleslav|448681|Undergraduate: Undeclared|2|CMSC 23300|01||BURNS-HOWARD|N|ckupets@uchicago.edu
+Lance|Stefan|Madison|436310|Undergraduate: Comp Sci|3|CMSC 23300|01||COHEN|N|slance@uchicago.edu
+Lee|Jonathan|Haw|437099|Undergraduate: Comp Sci|3|CMSC 23300|01||OWEIS|N|jonathanlee@uchicago.edu
+Lewis|Henry|John Ying|437445|Undergraduate: Mathematics|3|CMSC 23300|01||BLECHSCHMIDT|N|hlewis@uchicago.edu
+Lin|Zhen||447307|Undergraduate: Undeclared|2|CMSC 23300|01||GAINES|N|zlin7@uchicago.edu
+Liu|Haopeng||442917|Computer Science||CMSC 23300|01|||N|haopliu@uchicago.edu
+Liu|Mutian||436457|Undergraduate: Comp Sci|3|CMSC 23300|01||GORNY|N|mutian@uchicago.edu
+Lothan|Joseph|Aaron|426360|Undergraduate: Undeclared|3|CMSC 23300|01||LANDSTROM|N|lothan@uchicago.edu
+Luan|Sifei||436737|Undergraduate: Computational And Applied Mathematics|2|CMSC 23300|01||PAVEL|N|luans@uchicago.edu
+Marincic|Ivana||452194|Computer Science||CMSC 23300|01|||N|imarincic@uchicago.edu
+Maswood|Nasr|Syed|436735|Undergraduate: Comp Sci|3|CMSC 23300|01||BLECHSCHMIDT|N|nmaswood@uchicago.edu
+Meagher|Daniel|Avery|437579|Undergraduate: Comp Sci|3|CMSC 23300|01||GORNY|N|dmeagher@uchicago.edu
+Millman|Michael|Adam|421454|Undergraduate: Economics|4|CMSC 23300|01||SEGALL|N|mimillman@uchicago.edu
+Mueller|Alex|Joseph|436697|Undergraduate: Comp Sci|3|CMSC 23300|01||DEWEY|N|ajmueller@uchicago.edu
+Ni|Bob|Liu|427928|Undergraduate: Economics|4|CMSC 23300|01||HO|N|bobni@uchicago.edu
+Norris|Clayton|Nicholas|427688|Undergraduate: Linguistics|4|CMSC 23300|01||SNOW|N|cnnorris@uchicago.edu
+Ofori-Atta|Kwaku|Omari|437097|Undergraduate: Comp Sci|3|CMSC 23300|01||LA ROSE|N|kwaku@uchicago.edu
+Oran|Julia|Lily Kessler|447238|Undergraduate: Comp Sci|2|CMSC 23300|01||WESONGA|N|juliaoran@uchicago.edu
+Parker|Daniel|Kurt|438392|Undergraduate: Comp Sci|3|CMSC 23300|01||CLARK|N|dkparker@uchicago.edu
+Peng|Kangqiao||438385|Undergraduate: Economics|3|CMSC 23300|01||DEWEY|N|kangqiao@uchicago.edu
+Pham|Long|Phi|436887|Undergraduate: Economics|3|CMSC 23300|01||LIZARDO|N|longpham@uchicago.edu
+Pressler|Valeria|Alexandra|437593|Undergraduate: Comp Sci|3|CMSC 23300|01||COHEN|N|vpressler@uchicago.edu
+Reinherz|Emily|Meilan|437095|Undergraduate: Comp Sci|3|CMSC 23300|01||GORNY|N|ereinherz@uchicago.edu
+Rey|Samantha|T|448353|Undergraduate: Comp Sci|2|CMSC 23300|01||HEATH|N|sinkingrowboats@uchicago.edu
+Riggs|Justin|Gregory|436332|Undergraduate: Mathematics|3|CMSC 23300|01||HAWK|N|jriggs@uchicago.edu
+Russo|Emilia|Marie|447197|Undergraduate: Comp Sci|2|CMSC 23300|01||CLARK|N|erusso@uchicago.edu
+Sapoval|Nicolae||447814|Undergraduate: Comp Sci|2|CMSC 23300|01||COHEN|N|nsapoval@uchicago.edu
+Segerberg|Anders|Patrick|447644|Undergraduate: Common Year|2|CMSC 23300|01||PAVEL|N|asegerberg@uchicago.edu
+Sokolova|Margarita||427246|Undergraduate: Philosophy|2|CMSC 23300|01||LA ROSE|N|msokolova@uchicago.edu
+Starkey|Ingrid|Rae|436277|Undergraduate: Mathematics|3|CMSC 23300|01||WESONGA|N|irstarkey@uchicago.edu
+Tag|David|Youngmin|436734|Undergraduate: Comp Sci|3|CMSC 23300|01||CHINNIAH|N|dytag@uchicago.edu
+Teo|Chen Hui|George|412572|Undergraduate: Comp Sci|4|CMSC 23300|01||BLECHSCHMIDT|N|georgeteo@uchicago.edu
+Thurston|Reed|Michael|449678|Undergraduate: Common Year|2|CMSC 23300|01||LAMPERT|N|reedthurston@uchicago.edu
+Tucholski|Jakub||397498|Undergraduate: Comp Sci|3|CMSC 23300|01||LIZARDO|N|jtuchol@uchicago.edu
+Velasquez|Gustavo|Alejandro|426651|Undergraduate: Psychology|4|CMSC 23300|01||PAVEL|N|gavelasquez@uchicago.edu
+Verhaaren|Nathaniel|Isom|426853|Undergraduate: Common Year|2|CMSC 23300|01||BLECHSCHMIDT|N|nverhaaren@uchicago.edu
+Walker|Christopher|Nathaniel|448649|Undergraduate: Comp Sci|2|CMSC 23300|01||GORNY|N|cnwalker@uchicago.edu
+Wojak|Tyler|Jacob|427987|Undergraduate: Economics|4|CMSC 23300|01||DEWEY|N|twojak@uchicago.edu
+Xie|Bernard||426668|Undergraduate: Physics|4|CMSC 23300|01||SNOW|N|bernardxie@uchicago.edu
+Yan|Brian|Rennan|426809|Undergraduate: Economics|4|CMSC 23300|01||GAINES|N|briany@uchicago.edu
+Yoon|Taekwan||413896|Undergraduate: Physics|4|CMSC 23300|01||FORDE|N|taekwanyoon@uchicago.edu
+Zhao|Jason||437163|Undergraduate: Comp Sci|3|CMSC 23300|01||PENN|N|jzhao94@uchicago.edu
+Zhao|Jiayang||448498|Undergraduate: Common Year|2|CMSC 23300|01||COHEN|N|johnzhao96@uchicago.edu
+Bernstein|Evan|Daniel|438138|Undergraduate: Comp Sci|3|CMSC 23400|01||LIZARDO|N|elisionnovice@uchicago.edu
+Brooks|Edward|Bordeau|801803|Undergraduate: Comp Sci|4|CMSC 23400|01||SNOW|N|slights@uchicago.edu
+Chen|Yuanxia||436612|Undergraduate: Comp Sci|3|CMSC 23400|01||HARRIS|N|mchen24@uchicago.edu
+Clemens|Jenna|Lee|426286|Undergraduate: Comp Sci|4|CMSC 23400|01||LIZARDO|N|jlclemens@uchicago.edu
+Crespo|Anthony|Ramon|427609|Undergraduate: Comp Sci|4|CMSC 23400|01||LANDSTROM|N|acrespo@uchicago.edu
+Dobbs|Michelle|Lynn|437007|Undergraduate: Comp Sci|3|CMSC 23400|01||LANDSTROM|N|mdobbs@uchicago.edu
+Garcia|Andoni|Michael|427877|Undergraduate: Biological Sciences|4|CMSC 23400|01||GRAHAM|N|andoni@uchicago.edu
+Gowani|Zakir|Rajab|427637|Undergraduate: Comp Sci|4|CMSC 23400|01||GAINES|N|zgowani@uchicago.edu
+Hamilton|Ryan|Anthony|419452|Undergraduate: Comp Sci|3|CMSC 23400|01||HAWK|N|ryhamz@uchicago.edu
+Moresco|Catherine|Marie|426760|Undergraduate: Physics|4|CMSC 23400|01||SEGALL|N|cmoresco@uchicago.edu
+Naidoo|Udipta||427486|Undergraduate: Comp Sci|4|CMSC 23400|01||GAINES|N|uznaidoo@uchicago.edu
+Ni|Bob|Liu|427928|Undergraduate: Economics|4|CMSC 23400|01||HO|N|bobni@uchicago.edu
+Ni|Daniel|Michael|436778|Undergraduate: Comp Sci|3|CMSC 23400|01||HO|N|danielni@uchicago.edu
+Ofori-Atta|Kwaku|Omari|437097|Undergraduate: Comp Sci|3|CMSC 23400|01||LA ROSE|N|kwaku@uchicago.edu
+Prechelt|Remy|Luca|427255|Undergraduate: Comp Sci|4|CMSC 23400|01||CHINNIAH|N|rprechelt@uchicago.edu
+Rahman|Tasnim||427896|Undergraduate: Comp Sci|4|CMSC 23400|01||OWEIS|N|rahmant@uchicago.edu
+Sevart|Jacob|Baer|437078|Undergraduate: Comp Sci|4|CMSC 23400|01||SNOW|N|jacobsevart@uchicago.edu
+Sitwala|Amy|Rajiv|437017|Undergraduate: Economics|3|CMSC 23400|01||LAMPERT|N|asitwala@uchicago.edu
+Suarez|Sayri|Hui Shou|428226|Undergraduate: Comp Sci|4|CMSC 23400|01||BURNS-HOWARD|N|sayris@uchicago.edu
+Teo|Chen Hui|George|412572|Undergraduate: Comp Sci|4|CMSC 23400|01||BLECHSCHMIDT|N|georgeteo@uchicago.edu
+Tucholski|Jakub||397498|Undergraduate: Comp Sci|3|CMSC 23400|01||LIZARDO|N|jtuchol@uchicago.edu
+Wang|Victor|Jason|428116|Undergraduate: Comp Sci|4|CMSC 23400|01||LAWRENCE|Y|victorwang@uchicago.edu
+Wojak|Tyler|Jacob|427987|Undergraduate: Economics|4|CMSC 23400|01||DEWEY|N|twojak@uchicago.edu
+Yang|Andrew||426319|Undergraduate: Comp Sci|4|CMSC 23400|01||GORNY|N|ayang16@uchicago.edu
+Yong|Seraphina|Chen|427633|Undergraduate: Comp Sci|4|CMSC 23400|01||LAMPERT|Y|seraphina@uchicago.edu
+Zen|Kevin|Lin|436386|Undergraduate: Economics|3|CMSC 23400|01||LIZARDO|N|kzen@uchicago.edu
+Albers|Jacob|Lee|428065|Undergraduate: Comp Sci|4|CMSC 23500|01||LA ROSE|N|jacobalbers@uchicago.edu
+Anderson|Nikolas|Dean|426722|Undergraduate: Applied Math|4|CMSC 23500|01||BURNS-HOWARD|N|nikolasanderson@uchicago.edu
+Banerjee|Sumit||436499|Undergraduate: Economics|3|CMSC 23500|01||HAWK|N|banerjeesum@uchicago.edu
+Bederman|Evan|Daniel|426956|Undergraduate: Comp Sci|4|CMSC 23500|01||COHEN|N|bederman@uchicago.edu
+Callender|Brandon|Marcus|428067|Undergraduate: Comp Sci|4|CMSC 23500|01||DEWEY|N|bmcallender@uchicago.edu
+Chang|Alice|Jenlin|428028|Undergraduate: Comp Sci|4|CMSC 23500|01||LAWRENCE|N|ajchang@uchicago.edu
+Garikipati|Kavya||437366|Undergraduate: Economics|3|CMSC 23500|01||DEWEY|N|kavyag@uchicago.edu
+Goldman|Michael|Louis|427038|Undergraduate: Economics|4|CMSC 23500|01||LA ROSE|N|goldmanml@uchicago.edu
+Halperin|Erik|Louis|428109|Undergraduate: Comp Sci|4|CMSC 23500|01||GRAHAM|N|erikhalperin@uchicago.edu
+Hernandez|Steven|Andre|437157|Undergraduate: Comp Sci|3|CMSC 23500|01||LAMPERT|N|stevenkohta@uchicago.edu
+Hong|Kevin|Yimeng|436246|Undergraduate: Common Year|3|CMSC 23500|01||BURNS-HOWARD|N|khong@uchicago.edu
+Hughey|Curtis|Robert|428188|Undergraduate: Mathematics|4|CMSC 23500|01||COHEN|N|hugheyc@uchicago.edu
+Jenkins|Zachary|Tyler|426842|Undergraduate: Comp Sci|4|CMSC 23500|01||OWEIS|N|zachj@uchicago.edu
+Liu|Wenxuan||436292|Undergraduate: Mathematics|3|CMSC 23500|01||BURNS-HOWARD|N|liuwenxuan@uchicago.edu
+Lu|Kathleen|Yipei|436568|Undergraduate: Comp Sci|3|CMSC 23500|01||OWEIS|N|kathleenl@uchicago.edu
+Lu|Lucia||428111|Undergraduate: Comp Sci|4|CMSC 23500|01||BLECHSCHMIDT|N|lucialu94@uchicago.edu
+Malao|Ivy||436570|Undergraduate: Economics|3|CMSC 23500|01||OWEIS|N|imalao@uchicago.edu
+Malitz|Thomas|James|437128|Undergraduate: Comp Sci|3|CMSC 23500|01||GRAHAM|N|tmalitz@uchicago.edu
+Matthews III|William|Cannon|427087|Undergraduate: Comp Sci|4|CMSC 23500|01||BLECHSCHMIDT|N|cannonmatthews@uchicago.edu
+McDowell|Ryan|Michael|414233|Undergraduate: Comp Sci|4|CMSC 23500|01||GORNY|N|rmcdowell@uchicago.edu
+McKibben|Ben|Butler|437009|Undergraduate: Physics|3|CMSC 23500|01||LAWRENCE|N|benmckibben@uchicago.edu
+Naidoo|Udipta||427486|Undergraduate: Comp Sci|4|CMSC 23500|01||GAINES|N|uznaidoo@uchicago.edu
+Ni|Bob|Liu|427928|Undergraduate: Economics|4|CMSC 23500|01||HO|N|bobni@uchicago.edu
+Renshaw|Megan|Austin|426620|Undergraduate: Comp Sci|4|CMSC 23500|01||PAVEL|N|mrenshaw@uchicago.edu
+Saucedo|Cristian||427617|Undergraduate: Economics|4|CMSC 23500|01||BURNS-HOWARD|N|saucedoc@uchicago.edu
+Shi|Scott|Jialun|426929|Undergraduate: Comp Sci|4|CMSC 23500|01||GORNY|N|sjshi@uchicago.edu
+Smith|Emma|Akari|436233|Undergraduate: Comp Sci|3|CMSC 23500|01||LAWRENCE|N|easmith@uchicago.edu
+Sonawalla|Aneesa||428056|Undergraduate: Physics|4|CMSC 23500|01||GRAHAM|N|aneesasonawalla@uchicago.edu
+Suarez|Sayri|Hui Shou|428226|Undergraduate: Comp Sci|4|CMSC 23500|01||BURNS-HOWARD|N|sayris@uchicago.edu
+Syed|Ridwan|Muhammad|427982|Undergraduate: Comp Sci|4|CMSC 23500|01||CLARK|N|rsyed@uchicago.edu
+Unnold|Michael|Francis|428235|Undergraduate: Comp Sci|4|CMSC 23500|01||GAINES|N|michu@uchicago.edu
+Wang|Victor|Jason|428116|Undergraduate: Comp Sci|4|CMSC 23500|01||LAWRENCE|Y|victorwang@uchicago.edu
+Werner|Nils|Johan Petter|436666|Undergraduate: Comp Sci|3|CMSC 23500|01||OWEIS|N|njpwerner@uchicago.edu
+Wu|Salina||437794|Undergraduate: Comp Sci|3|CMSC 23500|01||HEATH|N|salinawu@uchicago.edu
+Yan|Brian|Rennan|426809|Undergraduate: Economics|4|CMSC 23500|01||GAINES|N|briany@uchicago.edu
+Yang|Yangxinye||426976|Undergraduate: Comp Sci|4|CMSC 23500|01||OWEIS|N|sophiayang@uchicago.edu
+Yilmaz|Gunce|Su|447655|Undergraduate: Comp Sci|2|CMSC 23500|01||COHEN|N|suyilmaz@uchicago.edu
+Arana-Rochel|Jaime||427913|Undergraduate: Comp Sci|4|CMSC 27100|01||HEATH|N|aranarochel@uchicago.edu
+Barnes|Xavier|Christian|426452|Undergraduate: Public Policy Studies|4|CMSC 27100|01||GRAHAM|N|barnesx@uchicago.edu
+Biderman|Joshua|Benjamin|426740|Undergraduate: Mathematics|4|CMSC 27100|01||HAWK|N|joshbiderman@uchicago.edu
+Brodheim|Hannah|Ruth|436838|Undergraduate: Comp Sci|3|CMSC 27100|01||LIZARDO|N|brodheim@uchicago.edu
+Cai|Renee|Jiachen|437008|Undergraduate: Computational And Applied Mathematics|3|CMSC 27100|01||PENN|N|rjcai@uchicago.edu
+Call|Benjamin|Everett|428027|Undergraduate: Mathematics|4|CMSC 27100|01||CHAMPA|N|bencall@uchicago.edu
+Cheiken|Michael|Steven|426784|Undergraduate: Mathematics|4|CMSC 27100|01||GORNY|N|mcheiken@uchicago.edu
+Chen|Patrick||426797|Undergraduate: Physics|4|CMSC 27100|01||GRAHAM|N|patrickchen@uchicago.edu
+Chen|Patrick|Liangda|436769|Undergraduate: Statistics|3|CMSC 27100|01||CLARK|N|patricklchen@uchicago.edu
+Chitty|Zoe|Lynn|447559|Undergraduate: Comp Sci|2|CMSC 27100|01||LAMPERT|N|zlchitty@uchicago.edu
+DeWeever|Gamal|Abdel|428436|Undergraduate: Linguistics|4|CMSC 27100|01||HAWK|N|gadeweever@uchicago.edu
+Dobbs|Michelle|Lynn|437007|Undergraduate: Comp Sci|3|CMSC 27100|01||LANDSTROM|N|mdobbs@uchicago.edu
+Douglas|Tynan|Maurice|436423|Undergraduate: Comp Sci|3|CMSC 27100|01||PENN|N|tynandouglas@uchicago.edu
+Ejaz|Hassaan||436832|Undergraduate: Computational And Applied Mathematics|3|CMSC 27100|01||CHINNIAH|N|hassaan@uchicago.edu
+Freymiller|Adam|Clarke|437330|Undergraduate: Mathematics|3|CMSC 27100|01||WESONGA|N|afreymiller@uchicago.edu
+Galloway|Matthew|Michael|447833|Undergraduate: Undeclared|2|CMSC 27100|01||BURNS-HOWARD|N|mgalloway@uchicago.edu
+Giron|Santiago|Stanwood|438483|Undergraduate: Common Year|3|CMSC 27100|01||DEWEY|N|giron@uchicago.edu
+Gong|Chengguang||459149|Undergraduate: Undeclared|1|CMSC 27100|01||SEGALL|N|cggong@uchicago.edu
+Gupta|Panya||436331|Undergraduate: Common Year|3|CMSC 27100|01||DEWEY|N|panyagupta@uchicago.edu
+Haglund|Jonathan|Richard|426541|Undergraduate: Economics|4|CMSC 27100|01||LIZARDO|N|haglund@uchicago.edu
+Hamilton|Ryan|Anthony|419452|Undergraduate: Comp Sci|3|CMSC 27100|01||HAWK|N|ryhamz@uchicago.edu
+Hanson|Cody|John|436348|Undergraduate: Comp Sci|3|CMSC 27100|01||GORNY|N|cjohnhanson@uchicago.edu
+Honasoge|Harsha|Prasad|428187|Undergraduate: Physics|4|CMSC 27100|01||DEWEY|N|hhonasoge@uchicago.edu
+Huh|Stephen|Jung|436901|Undergraduate: Comp Sci|2|CMSC 27100|01||WESONGA|N|stephenhuh@uchicago.edu
+Iskandarani|Hadi|M|436954|Undergraduate: Common Year|3|CMSC 27100|01||LIZARDO|N|hadi@uchicago.edu
+Kovacs|Dominex|Jean|447213|Undergraduate: Comp Sci|2|CMSC 27100|01||DEWEY|N|dominex@uchicago.edu
+Landry|Stephen|Fahrmann|436497|Undergraduate: Common Year|3|CMSC 27100|01||CLARK|N|slandry@uchicago.edu
+Lee|Jonathan|Haw|437099|Undergraduate: Comp Sci|3|CMSC 27100|01||OWEIS|N|jonathanlee@uchicago.edu
+Levy|Elliot|Matthew|438530|Undergraduate: Mathematics|3|CMSC 27100|01||CHAMPA|N|elevy411@uchicago.edu
+Liang|Jiayu||428125|Undergraduate: Mathematics|4|CMSC 27100|01||MYERS|N|liangj@uchicago.edu
+Lim|Leeho||436980|Undergraduate: Comp Sci|3|CMSC 27100|01||WRIGHT|N|leeholim@uchicago.edu
+Liu|Wenxuan||436292|Undergraduate: Mathematics|3|CMSC 27100|01||BURNS-HOWARD|N|liuwenxuan@uchicago.edu
+Lothan|Joseph|Aaron|426360|Undergraduate: Undeclared|3|CMSC 27100|01||LANDSTROM|N|lothan@uchicago.edu
+Manasse-Boetani|Julian|Fletcher|427035|Undergraduate: Economics|4|CMSC 27100|01||DEWEY|N|jfmanbo@uchicago.edu
+Mang|Audrey|Gina|436403|Undergraduate: Mathematics|3|CMSC 27100|01||HAWK|N|audreymang@uchicago.edu
+Matt-Navarro|Jorge|Sebastian|437972|Undergraduate: Economics|3|CMSC 27100|01||SNOW|N|jrnavarro@uchicago.edu
+McKibben|Ben|Butler|437009|Undergraduate: Physics|3|CMSC 27100|01||LAWRENCE|N|benmckibben@uchicago.edu
+Meagher|Daniel|Avery|437579|Undergraduate: Comp Sci|3|CMSC 27100|01||GORNY|N|dmeagher@uchicago.edu
+Mendelssohn|David|Shane|436585|Undergraduate: Computational And Applied Mathematics|3|CMSC 27100|01||LIZARDO|N|dmendelssohn@uchicago.edu
+Mueller|Alex|Joseph|436697|Undergraduate: Comp Sci|3|CMSC 27100|01||DEWEY|N|ajmueller@uchicago.edu
+Nabar|Maitreyi|Santosh|447663|Undergraduate: Common Year|2|CMSC 27100|01||LAWRENCE|N|mainabar@uchicago.edu
+Peters|Tristan|Bailey|447792|Undergraduate: Common Year|2|CMSC 27100|01||GAINES|N|tristanpeters@uchicago.edu
+Pham|Long|Phi|436887|Undergraduate: Economics|3|CMSC 27100|01||LIZARDO|N|longpham@uchicago.edu
+Prasad|Atul||436540|Undergraduate: Mathematics|3|CMSC 27100|01||COHEN|N|atulprasad@uchicago.edu
+Prasad|Keshav||436710|Undergraduate: Common Year|3|CMSC 27100|01||HO|N|keshavprasad@uchicago.edu
+Reynolds|Sean||428434|Undergraduate: Mathematics|4|CMSC 27100|01||DEWEY|N|seanreynolds@uchicago.edu
+Richter|Rudyard|Charles|436671|Undergraduate: Comp Sci|3|CMSC 27100|01||PAVEL|N|rudyardrichter@uchicago.edu
+Riggs|Justin|Gregory|436332|Undergraduate: Mathematics|3|CMSC 27100|01||HAWK|N|jriggs@uchicago.edu
+Scott|Gera|Charlesea|438076|Undergraduate: Comp Sci|3|CMSC 27100|01||GRAHAM|N|gerascott@uchicago.edu
+Segan|Samuel|Alexander|436226|Undergraduate: Comp Sci|3|CMSC 27100|01||DEWEY|N|samsegan@uchicago.edu
+Silverman|Cody|Malanos|437999|Undergraduate: Undeclared|3|CMSC 27100|01||HEATH|N|cms@uchicago.edu
+Soltas|Connor|Matthew|438424|Undergraduate: Common Year|3|CMSC 27100|01||LIZARDO|N|csoltas@uchicago.edu
+Wang|Hantao||447664|Undergraduate: Linguistics|2|CMSC 27100|01||BURNS-HOWARD|N|hantaow@uchicago.edu
+Werner|Nils|Johan Petter|436666|Undergraduate: Comp Sci|3|CMSC 27100|01||OWEIS|N|njpwerner@uchicago.edu
+Xu|Linfeng||447975|Undergraduate: Mathematics|2|CMSC 27100|01||HAWK|N|xulinfeng@uchicago.edu
+Zen|Kevin|Lin|436386|Undergraduate: Economics|3|CMSC 27100|01||LIZARDO|N|kzen@uchicago.edu
+Zhang|Gaibo||447375|Undergraduate: Comp Sci|2|CMSC 27100|01||CHINNIAH|N|gaibo@uchicago.edu
+Zhao|Kevin||447506|Undergraduate: Common Year|2|CMSC 27100|01||CLARK|N|kzhao@uchicago.edu
+Albers|Jacob|Lee|428065|Undergraduate: Comp Sci|4|CMSC 27200|01|01|LA ROSE|N|jacobalbers@uchicago.edu
+Ando|Theodore||801540|Lab School||CMSC 27200|01|01||N|tando1@uchicago.edu
+Bederman|Evan|Daniel|426956|Undergraduate: Comp Sci|4|CMSC 27200|01|01|COHEN|N|bederman@uchicago.edu
+Chang|Alice|Jenlin|428028|Undergraduate: Comp Sci|4|CMSC 27200|01|01|LAWRENCE|N|ajchang@uchicago.edu
+D'Aloisio|Collin|Nicholas|427634|Undergraduate: Computational And Applied Mathematics|4|CMSC 27200|01|01|SEGALL|N|cdaloisio@uchicago.edu
+Ding|Robert||426522|Undergraduate: Economics|4|CMSC 27200|01|01|BURNS-HOWARD|N|robertd@uchicago.edu
+Ellenberger|Jack|Andrew|427890|Undergraduate: Comp Sci|4|CMSC 27200|01|01|CHAMPA|N|jellenberger@uchicago.edu
+Hanson|Richard|Luis|427085|Undergraduate: Comp Sci|4|CMSC 27200|01|01|PAVEL|N|rlhanson@uchicago.edu
+Hays|Alex|William|420726|Undergraduate: Comp Sci|4|CMSC 27200|01|01|GRAHAM|N|ahays@uchicago.edu
+Hwang|Allison||427110|Undergraduate: Comp Sci|4|CMSC 27200|01|01|BURNS-HOWARD|N|allisonhwang@uchicago.edu
+Hyman|Martin|Spencer|426388|Undergraduate: Applied Math|4|CMSC 27200|01|01|LAMPERT|N|hyman@uchicago.edu
+Kim|Paul|HyungSuk|460397|Gsal||CMSC 27200|01|01||N|pkim6@uchicago.edu
+King|Brennan|Harris|428201|Undergraduate: Economics|4|CMSC 27200|01|01|CHAMPA|N|brennanhking@uchicago.edu
+Landgrebe|Mark|Kevin|426276|Undergraduate: Comp Sci|4|CMSC 27200|01|01|GRAHAM|N|mlandgrebe@uchicago.edu
+Loe|Maren|Elizabeth|427418|Undergraduate: Computational And Applied Mathematics|4|CMSC 27200|01|01|CLARK|N|marenloe@uchicago.edu
+Martinez|Julian|David|428230|Undergraduate: Mathematics|4|CMSC 27200|01|01|HARRIS|N|j3martinez@uchicago.edu
+McDowell|Ryan|Michael|414233|Undergraduate: Comp Sci|4|CMSC 27200|01|01|GORNY|N|rmcdowell@uchicago.edu
+Natesh|Sachin|Ram|411706|Undergraduate: Computational And Applied Mathematics|4|CMSC 27200|01|01|LAWRENCE|N|snatesh@uchicago.edu
+Peng|Robert|Bo|428076|Undergraduate: Statistics|4|CMSC 27200|01|01|CLARK|N|robertpeng@uchicago.edu
+Prechelt|Remy|Luca|427255|Undergraduate: Comp Sci|4|CMSC 27200|01|01|CHINNIAH|N|rprechelt@uchicago.edu
+Remissong|Thomas|Christian|427240|Undergraduate: Comp Sci|4|CMSC 27200|01|01|BURNS-HOWARD|N|tcremissong@uchicago.edu
+Rohrer|Benjamin|Joseph|426733|Undergraduate: Comp Sci|4|CMSC 27200|01|01|COHEN|N|bjr@uchicago.edu
+Sevart|Jacob|Baer|437078|Undergraduate: Comp Sci|4|CMSC 27200|01|01|SNOW|N|jacobsevart@uchicago.edu
+Smith|Emma|Akari|436233|Undergraduate: Comp Sci|3|CMSC 27200|01|01|LAWRENCE|N|easmith@uchicago.edu
+Spradlin|Mitchell|Henry|428078|Undergraduate: Physics|4|CMSC 27200|01|01|BLECHSCHMIDT|N|mhs@uchicago.edu
+Teo|Chen Hui|George|412572|Undergraduate: Comp Sci|4|CMSC 27200|01|01|BLECHSCHMIDT|N|georgeteo@uchicago.edu
+Yong|Seraphina|Chen|427633|Undergraduate: Comp Sci|4|CMSC 27200|01|01|LAMPERT|Y|seraphina@uchicago.edu
+Zhang|Allan|Tao|413871|Undergraduate: Economics|4|CMSC 27200|01|01|LAMPERT|N|zhangallan@uchicago.edu
+Aizuss|Amanda|Lindsay|436305|Undergraduate: Comp Sci|3|CMSC 27200|01|02|OWEIS|N|amandaaizuss@uchicago.edu
+Berra|Zoe|Rose|438899|Undergraduate: Comp Sci|3|CMSC 27200|01|02|HO|N|zberra@uchicago.edu
+Bianchini|Jonathan|P|438108|Undergraduate: Comp Sci|3|CMSC 27200|01|02|PAVEL|N|jbianchini@uchicago.edu
+Chen|Mengyuan||416333|Undergraduate: Comp Sci|3|CMSC 27200|01|02|KANTER|N|mengyuanchen@uchicago.edu
+Chen|Wenyu||428650|Undergraduate: Computational And Applied Mathematics|3|CMSC 27200|01|02|OWEIS|N|willchen@uchicago.edu
+Chen|Yuanxia||436612|Undergraduate: Comp Sci|3|CMSC 27200|01|02|HARRIS|N|mchen24@uchicago.edu
+Eidsmoe|Christopher|Eric|436676|Undergraduate: Comp Sci|3|CMSC 27200|01|02|GRAHAM|N|ceidsmoe@uchicago.edu
+Goyal|Kunal||437112|Undergraduate: Mathematics|3|CMSC 27200|01|02|SNOW|N|kunalg@uchicago.edu
+Hoford|Hugh|Jordan Anthony|436418|Undergraduate: Computational And Applied Mathematics|3|CMSC 27200|01|02|SNOW|N|hjhoford@uchicago.edu
+Jablon|Kyle||436406|Undergraduate: Economics|3|CMSC 27200|01|02|KANTER|N|jablonk@uchicago.edu
+Kang|Denny|Junhong|436280|Undergraduate: Mathematics|3|CMSC 27200|01|02|COHEN|N|denkang95@uchicago.edu
+Komissopoulos|Sotirios||437489|Undergraduate: Mathematics|3|CMSC 27200|01|02|KANTER|N|skomissopoulos@uchicago.edu
+Lance|Stefan|Madison|436310|Undergraduate: Comp Sci|3|CMSC 27200|01|02|COHEN|N|slance@uchicago.edu
+Lewis|Henry|John Ying|437445|Undergraduate: Mathematics|3|CMSC 27200|01|02|BLECHSCHMIDT|N|hlewis@uchicago.edu
+Lim|Leeho||436980|Undergraduate: Comp Sci|3|CMSC 27200|01|02|WRIGHT|N|leeholim@uchicago.edu
+Liu|Mutian||436457|Undergraduate: Comp Sci|3|CMSC 27200|01|02|GORNY|N|mutian@uchicago.edu
+Lozinski|Nina||438720|Undergraduate: Computational And Applied Mathematics|3|CMSC 27200|01|02|LIZARDO|N|nlozinski@uchicago.edu
+Lu|Kathleen|Yipei|436568|Undergraduate: Comp Sci|3|CMSC 27200|01|02|OWEIS|N|kathleenl@uchicago.edu
+Luan|Sifei||436737|Undergraduate: Computational And Applied Mathematics|2|CMSC 27200|01|02|PAVEL|N|luans@uchicago.edu
+Moresco|Catherine|Marie|426760|Undergraduate: Physics|4|CMSC 27200|01|02|SEGALL|N|cmoresco@uchicago.edu
+Ofori-Atta|Kwaku|Omari|437097|Undergraduate: Comp Sci|3|CMSC 27200|01|02|LA ROSE|N|kwaku@uchicago.edu
+Reinherz|Emily|Meilan|437095|Undergraduate: Comp Sci|3|CMSC 27200|01|02|GORNY|N|ereinherz@uchicago.edu
+Robinson|Avery|Cole|436817|Undergraduate: Comp Sci|3|CMSC 27200|01|02|HO|N|averyrobinson@uchicago.edu
+Sadowski|Aidan|Maxwell|438281|Undergraduate: Common Year|3|CMSC 27200|01|02|KANTER|N|amsadowski@uchicago.edu
+Snyder|Alec|Dov|436483|Undergraduate: Comp Sci|3|CMSC 27200|01|02|PENN|N|alsnyder@uchicago.edu
+Yehoshua|Ron|Offer|437707|Undergraduate: Mathematics|3|CMSC 27200|01|02|CHAMPA|N|ronyehoshua@uchicago.edu
+Yu|Anton||437411|Undergraduate: Comp Sci|3|CMSC 27200|01|02|COHEN|N|antonyu@uchicago.edu
+Alhadi|John|Phillip|436855|Undergraduate: Mathematics|3|CMSC 27200|01|03|GORNY|N|jalhadi@uchicago.edu
+Balasubramanian|Kaavya||427911|Undergraduate: Economics|4|CMSC 27200|01|03|CLARK|N|kbalan@uchicago.edu
+Bogdan|Robert|Joseph|436723|Undergraduate: Common Year|3|CMSC 27200|01|03|DEWEY|N|rjbogdan@uchicago.edu
+Chee|Jerry||437869|Undergraduate: Computational And Applied Mathematics|3|CMSC 27200|01|03|LIZARDO|N|jchee@uchicago.edu
+Chen|Liyuan||427106|Undergraduate: Comp Sci|3|CMSC 27200|01|03|PAVEL|N|liyuanchen@uchicago.edu
+Dougherty|Patrick|Gillen|436308|Undergraduate: Comp Sci|3|CMSC 27200|01|03|LAMPERT|N|doughertypg@uchicago.edu
+Gladkov|Leonid|Dmitrievich|438229|Undergraduate: Mathematics|3|CMSC 27200|01|03|KANTER|N|leogladkov@uchicago.edu
+Gurevitch|Matthew|Aaron|427557|Undergraduate: Mathematics|4|CMSC 27200|01|03|SNOW|N|magurevitch@uchicago.edu
+Hernandez|Steven|Andre|437157|Undergraduate: Comp Sci|3|CMSC 27200|01|03|LAMPERT|N|stevenkohta@uchicago.edu
+Hochman|Michael|Aaron|437247|Undergraduate: Mathematics|3|CMSC 27200|01|03|GAINES|N|michaelhochman@uchicago.edu
+Hong|Kevin|Yimeng|436246|Undergraduate: Common Year|3|CMSC 27200|01|03|BURNS-HOWARD|N|khong@uchicago.edu
+Liu|Jacklyn||437049|Undergraduate: Computational And Applied Mathematics|3|CMSC 27200|01|03|LIZARDO|N|jacklynl@uchicago.edu
+Longendyke|Willem|Tobey|436433|Undergraduate: Comp Sci|3|CMSC 27200|01|03|SNOW|N|wlongendyke@uchicago.edu
+Malao|Ivy||436570|Undergraduate: Economics|3|CMSC 27200|01|03|OWEIS|N|imalao@uchicago.edu
+Malitz|Thomas|James|437128|Undergraduate: Comp Sci|3|CMSC 27200|01|03|GRAHAM|N|tmalitz@uchicago.edu
+Maswood|Nasr|Syed|436735|Undergraduate: Comp Sci|3|CMSC 27200|01|03|BLECHSCHMIDT|N|nmaswood@uchicago.edu
+Nickolay|Sam|Francis|428231|Undergraduate: Comp Sci|4|CMSC 27200|01|03|HEATH|N|samnickolay@uchicago.edu
+Pressler|Valeria|Alexandra|437593|Undergraduate: Comp Sci|3|CMSC 27200|01|03|COHEN|N|vpressler@uchicago.edu
+Ross|Michelle|Lauren|438512|Undergraduate: Comp Sci|3|CMSC 27200|01|03|HAWK|N|mlr@uchicago.edu
+Sharma|Nishesh||438540|Undergraduate: Computational And Applied Mathematics|3|CMSC 27200|01|03|HO|N|nsharma7@uchicago.edu
+Sitwala|Amy|Rajiv|437017|Undergraduate: Economics|3|CMSC 27200|01|03|LAMPERT|N|asitwala@uchicago.edu
+Tag|David|Youngmin|436734|Undergraduate: Comp Sci|3|CMSC 27200|01|03|CHINNIAH|N|dytag@uchicago.edu
+Tan|Shaun||436732|Undergraduate: Statistics|3|CMSC 27200|01|03|LAWRENCE|N|shauntan@uchicago.edu
+Tsui|Chin Wun||436820|Undergraduate: Common Year|3|CMSC 27200|01|03|BURNS-HOWARD|N|dtsui@uchicago.edu
+Vasiljevic|Igor||415452|Statistics||CMSC 27200|01|03||N|ivasiljevic@uchicago.edu
+Wang|Weian||436653|Undergraduate: Mathematics|3|CMSC 27200|01|03|LAWRENCE|N|weian@uchicago.edu
+Wu|Salina||437794|Undergraduate: Comp Sci|3|CMSC 27200|01|03|HEATH|N|salinawu@uchicago.edu
+Barnum|Kevin|Chang|426935|Undergraduate: Mathematics|4|CMSC 27800|50||BURNS-HOWARD|N|kbarnum@uchicago.edu
+Brown|Thomas|Rush|809856|Undergraduate: Mathematics|2|CMSC 27800|50||HO|N|tomb1@uchicago.edu
+Duncan|Paul|Raymond|427666|Undergraduate: Mathematics|4|CMSC 27800|50||BURNS-HOWARD|N|duncanp@uchicago.edu
+Freese|Kevin|Michael|428030|Undergraduate: Comp Sci|4|CMSC 27800|50||CLARK|N|kevfreese@uchicago.edu
+McDonough|Alexander|James|427867|Undergraduate: Mathematics|4|CMSC 27800|50||CLARK|N|al2718x@uchicago.edu
+Ramseyer|Geoffrey|Daniel|436875|Undergraduate: Comp Sci|3|CMSC 27800|50||HO|N|ramseyer@uchicago.edu
+Ross|Mathias|Castelfranco|426805|Undergraduate: Physics|4|CMSC 27800|50||PAVEL|N|mathiasross@uchicago.edu
+Tyrrell|Brian|James|459347|College International Exchange||CMSC 27800|50||FORDE|N|btyrrel@uchicago.edu
+Wingester Ribeiro de Oliveira|Rafael||436262|Undergraduate: Undeclared|3|CMSC 27800|50||LAMPERT|N|rafaelwro@uchicago.edu
+Zhu|Wanqi||802788|Lab School||CMSC 27800|50|||N|wzhu37@uchicago.edu
+Zimmerman|Arieh||436511|Undergraduate: Common Year|3|CMSC 27800|50||CHAMPA|N|ariehzimmerman@uchicago.edu
+Ehudin|Lee|Jacob|437031|Undergraduate: Comp Sci|3|CMSC 29700|45||PAVEL|N|ehudinl@uchicago.edu
+Farvardin|Kavon|Far|442614|Computer Science||CMSC 32001|01|||N|kavon@uchicago.edu
+Hempel|Brian|Nathan|452197|Computer Science||CMSC 32001|01|||N|brianhempel@uchicago.edu
+Wingerter|Joseph|Michael|442916|Computer Science||CMSC 32001|01|||N|wings@uchicago.edu
+Babuji|Yadu Nand||451299|Masters Program In Computer Science||CMSC 33001|01|||N|yadunand@uchicago.edu
+Byers|Austin|Bryant|426721|Undergraduate: Comp Sci|4|CMSC 33001|01||LAMPERT|N|charitygains@uchicago.edu
+Chu|Zewei||452195|Computer Science||CMSC 33001|01|||N|zeweichu@uchicago.edu
+Ke|Huan||452700|Computer Science||CMSC 33001|01|||N|huanke@uchicago.edu
+Li|Guangpu||452702|Computer Science||CMSC 33001|01|||N|cstjygpl@uchicago.edu
+Li|Huaicheng||457537|Computer Science||CMSC 33001|01|||N|huaicheng@uchicago.edu
+Lukman|Jeffrey|Ferrari|452201|Computer Science||CMSC 33001|01|||N|lukman@uchicago.edu
+Marincic|Ivana||452194|Computer Science||CMSC 33001|01|||N|imarincic@uchicago.edu
+Tchoua|Roselyne|Barreto|432501|Computer Science||CMSC 33001|01|||Y|roselyne@uchicago.edu
+Thaler|Severin||432502|Computer Science||CMSC 33001|01|||N|sthaler@uchicago.edu
+Wang|Shu||457397|Computer Science||CMSC 33001|01|||N|shuwang@uchicago.edu
+Li|Gushu||449957|Computer Science||CMSC 33001|02|||N|ligushu@uchicago.edu
+Foley|Jillian|Elaine|452156|Conceptual & Historical Studies Of Science||CMSC 33250|01|||N|jillianefoley@uchicago.edu
+Arbaugh|Jonathon|William|448765|Undergraduate: Undeclared|2|CMSC 33300|01||BURNS-HOWARD|N|jarbaugh@uchicago.edu
+Bogdan|Robert|Joseph|436723|Undergraduate: Common Year|3|CMSC 33300|01||DEWEY|N|rjbogdan@uchicago.edu
+Calder|Jack|Finneran|447342|Undergraduate: Common Year|2|CMSC 33300|01||CHAMPA|N|jfcalder@uchicago.edu
+Castro|Jonathan||448404|Undergraduate: Comp Sci|2|CMSC 33300|01||GORNY|N|jcastro64@uchicago.edu
+Chen|Mengyuan||416333|Undergraduate: Comp Sci|3|CMSC 33300|01||KANTER|N|mengyuanchen@uchicago.edu
+Compton|Nathan|Taylor|436906|Undergraduate: Comp Sci|3|CMSC 33300|01||DEWEY|N|nors@uchicago.edu
+Dougherty|Patrick|Gillen|436308|Undergraduate: Comp Sci|3|CMSC 33300|01||LAMPERT|N|doughertypg@uchicago.edu
+Douglas|Tynan|Maurice|436423|Undergraduate: Comp Sci|3|CMSC 33300|01||PENN|N|tynandouglas@uchicago.edu
+Garcia|Andoni|Michael|427877|Undergraduate: Biological Sciences|4|CMSC 33300|01||GRAHAM|N|andoni@uchicago.edu
+Gong|Chengguang||459149|Undergraduate: Undeclared|1|CMSC 33300|01||SEGALL|N|cggong@uchicago.edu
+Graybeal|William|Kung|449588|Undergraduate: Comp Sci|2|CMSC 33300|01||PAVEL|N|wkgraybeal@uchicago.edu
+Guo|Ziyue||449284|Undergraduate: Common Year|2|CMSC 33300|01||CHAMPA|N|jasonguo@uchicago.edu
+Halford|Noah|Henry Jacobs|426543|Undergraduate: Physics|4|CMSC 33300|01||SNOW|N|nhalford@uchicago.edu
+Hong|Kevin|Yimeng|436246|Undergraduate: Common Year|3|CMSC 33300|01||BURNS-HOWARD|N|khong@uchicago.edu
+Hupp|Erik|Edmund|448513|Undergraduate: Common Year|2|CMSC 33300|01||CHAMPA|N|ehupp@uchicago.edu
+Huynh|Tri|Quoc|452274|Computer Science||CMSC 33300|01|||N|trihuynh@uchicago.edu
+Ierugan|Delia|Anda|448119|Undergraduate: Undeclared|2|CMSC 33300|01||GAINES|N|dierugan@uchicago.edu
+Iouchkov|Mikhail||447414|Undergraduate: Mathematics|2|CMSC 33300|01||BURNS-HOWARD|N|iouchkov@uchicago.edu
+Jiao|Victor|L|448928|Undergraduate: Comp Sci|2|CMSC 33300|01||CHAMPA|N|victorjiao@uchicago.edu
+Ko|Sydney|Deborah|447365|Undergraduate: Comp Sci|2|CMSC 33300|01||WESONGA|N|kosydney@uchicago.edu
+Komissopoulos|Sotirios||437489|Undergraduate: Mathematics|3|CMSC 33300|01||KANTER|N|skomissopoulos@uchicago.edu
+Kupets|Charles|Boleslav|448681|Undergraduate: Undeclared|2|CMSC 33300|01||BURNS-HOWARD|N|ckupets@uchicago.edu
+Lance|Stefan|Madison|436310|Undergraduate: Comp Sci|3|CMSC 33300|01||COHEN|N|slance@uchicago.edu
+Lee|Jonathan|Haw|437099|Undergraduate: Comp Sci|3|CMSC 33300|01||OWEIS|N|jonathanlee@uchicago.edu
+Lewis|Henry|John Ying|437445|Undergraduate: Mathematics|3|CMSC 33300|01||BLECHSCHMIDT|N|hlewis@uchicago.edu
+Lin|Zhen||447307|Undergraduate: Undeclared|2|CMSC 33300|01||GAINES|N|zlin7@uchicago.edu
+Liu|Haopeng||442917|Computer Science||CMSC 33300|01|||N|haopliu@uchicago.edu
+Liu|Mutian||436457|Undergraduate: Comp Sci|3|CMSC 33300|01||GORNY|N|mutian@uchicago.edu
+Lothan|Joseph|Aaron|426360|Undergraduate: Undeclared|3|CMSC 33300|01||LANDSTROM|N|lothan@uchicago.edu
+Luan|Sifei||436737|Undergraduate: Computational And Applied Mathematics|2|CMSC 33300|01||PAVEL|N|luans@uchicago.edu
+Marincic|Ivana||452194|Computer Science||CMSC 33300|01|||N|imarincic@uchicago.edu
+Maswood|Nasr|Syed|436735|Undergraduate: Comp Sci|3|CMSC 33300|01||BLECHSCHMIDT|N|nmaswood@uchicago.edu
+Meagher|Daniel|Avery|437579|Undergraduate: Comp Sci|3|CMSC 33300|01||GORNY|N|dmeagher@uchicago.edu
+Millman|Michael|Adam|421454|Undergraduate: Economics|4|CMSC 33300|01||SEGALL|N|mimillman@uchicago.edu
+Mueller|Alex|Joseph|436697|Undergraduate: Comp Sci|3|CMSC 33300|01||DEWEY|N|ajmueller@uchicago.edu
+Ni|Bob|Liu|427928|Undergraduate: Economics|4|CMSC 33300|01||HO|N|bobni@uchicago.edu
+Norris|Clayton|Nicholas|427688|Undergraduate: Linguistics|4|CMSC 33300|01||SNOW|N|cnnorris@uchicago.edu
+Ofori-Atta|Kwaku|Omari|437097|Undergraduate: Comp Sci|3|CMSC 33300|01||LA ROSE|N|kwaku@uchicago.edu
+Oran|Julia|Lily Kessler|447238|Undergraduate: Comp Sci|2|CMSC 33300|01||WESONGA|N|juliaoran@uchicago.edu
+Parker|Daniel|Kurt|438392|Undergraduate: Comp Sci|3|CMSC 33300|01||CLARK|N|dkparker@uchicago.edu
+Peng|Kangqiao||438385|Undergraduate: Economics|3|CMSC 33300|01||DEWEY|N|kangqiao@uchicago.edu
+Pham|Long|Phi|436887|Undergraduate: Economics|3|CMSC 33300|01||LIZARDO|N|longpham@uchicago.edu
+Pressler|Valeria|Alexandra|437593|Undergraduate: Comp Sci|3|CMSC 33300|01||COHEN|N|vpressler@uchicago.edu
+Reinherz|Emily|Meilan|437095|Undergraduate: Comp Sci|3|CMSC 33300|01||GORNY|N|ereinherz@uchicago.edu
+Rey|Samantha|T|448353|Undergraduate: Comp Sci|2|CMSC 33300|01||HEATH|N|sinkingrowboats@uchicago.edu
+Riggs|Justin|Gregory|436332|Undergraduate: Mathematics|3|CMSC 33300|01||HAWK|N|jriggs@uchicago.edu
+Russo|Emilia|Marie|447197|Undergraduate: Comp Sci|2|CMSC 33300|01||CLARK|N|erusso@uchicago.edu
+Sapoval|Nicolae||447814|Undergraduate: Comp Sci|2|CMSC 33300|01||COHEN|N|nsapoval@uchicago.edu
+Segerberg|Anders|Patrick|447644|Undergraduate: Common Year|2|CMSC 33300|01||PAVEL|N|asegerberg@uchicago.edu
+Sokolova|Margarita||427246|Undergraduate: Philosophy|2|CMSC 33300|01||LA ROSE|N|msokolova@uchicago.edu
+Starkey|Ingrid|Rae|436277|Undergraduate: Mathematics|3|CMSC 33300|01||WESONGA|N|irstarkey@uchicago.edu
+Tag|David|Youngmin|436734|Undergraduate: Comp Sci|3|CMSC 33300|01||CHINNIAH|N|dytag@uchicago.edu
+Teo|Chen Hui|George|412572|Undergraduate: Comp Sci|4|CMSC 33300|01||BLECHSCHMIDT|N|georgeteo@uchicago.edu
+Thurston|Reed|Michael|449678|Undergraduate: Common Year|2|CMSC 33300|01||LAMPERT|N|reedthurston@uchicago.edu
+Tucholski|Jakub||397498|Undergraduate: Comp Sci|3|CMSC 33300|01||LIZARDO|N|jtuchol@uchicago.edu
+Velasquez|Gustavo|Alejandro|426651|Undergraduate: Psychology|4|CMSC 33300|01||PAVEL|N|gavelasquez@uchicago.edu
+Verhaaren|Nathaniel|Isom|426853|Undergraduate: Common Year|2|CMSC 33300|01||BLECHSCHMIDT|N|nverhaaren@uchicago.edu
+Walker|Christopher|Nathaniel|448649|Undergraduate: Comp Sci|2|CMSC 33300|01||GORNY|N|cnwalker@uchicago.edu
+Wojak|Tyler|Jacob|427987|Undergraduate: Economics|4|CMSC 33300|01||DEWEY|N|twojak@uchicago.edu
+Xie|Bernard||426668|Undergraduate: Physics|4|CMSC 33300|01||SNOW|N|bernardxie@uchicago.edu
+Yan|Brian|Rennan|426809|Undergraduate: Economics|4|CMSC 33300|01||GAINES|N|briany@uchicago.edu
+Yoon|Taekwan||413896|Undergraduate: Physics|4|CMSC 33300|01||FORDE|N|taekwanyoon@uchicago.edu
+Zhao|Jason||437163|Undergraduate: Comp Sci|3|CMSC 33300|01||PENN|N|jzhao94@uchicago.edu
+Zhao|Jiayang||448498|Undergraduate: Common Year|2|CMSC 33300|01||COHEN|N|johnzhao96@uchicago.edu
+Archer|Jeremy|L|809133|Undergraduate: Comp Sci|4|CMSC 33400|01||HARRIS|N|jarcher@uchicago.edu
+Basart|Steven||442615|Computer Science||CMSC 33550|01|||N|xksteven@uchicago.edu
+Chu|Zewei||452195|Computer Science||CMSC 33550|01|||N|zeweichu@uchicago.edu
+Dziedzic|Adam||452276|Computer Science||CMSC 33550|01|||N|ady@uchicago.edu
+Fan|Yunxia||446387|Physical Sciences||CMSC 33550|01|||Y|fanyx@uchicago.edu
+Hyun|Maria||453174|Computer Science||CMSC 33550|01|||N|mhyun@uchicago.edu
+Jiang|Hao||457147|Computer Science||CMSC 33550|01|||N|hajiang@uchicago.edu
+Mudrakarta|Pramod Kaushik||448071|Computer Science||CMSC 33550|01|||N|pramodkm@uchicago.edu
+Nickolay|Sam|Francis|428231|Undergraduate: Comp Sci|4|CMSC 33550|01||HEATH|N|samnickolay@uchicago.edu
+Sheikhi|Samira||432473|Computer Science||CMSC 33550|01|||N|ssheikhi@uchicago.edu
+Tang|Dixin||452270|Computer Science||CMSC 33550|01|||N|totemtang@uchicago.edu
+Xu|Min||452278|Computer Science||CMSC 33550|01|||N|xum@uchicago.edu
+Yu|Lang||452203|Computer Science||CMSC 33550|01|||N|langyu@uchicago.edu
+Babcock|Joshua|David|397322|Anthropology||CMSC 33950|01|||N|jdbabcock@uchicago.edu
+Cagnato|Stefano||453554|M.a. Program Humanities||CMSC 33950|01|||N|cagnato@uchicago.edu
+Cao|Lu||444318|Statistics||CMSC 33950|01|||N|lucao@uchicago.edu
+Carter|Evan|Chandler|454304|Visual Arts||CMSC 33950|01|||N|eccarter@uchicago.edu
+Eley|William|Sanford|458886|Social Sciences||CMSC 33950|01|||N|williameley@uchicago.edu
+Gecan|Kristin||450944|M.a. Program Humanities||CMSC 33950|01|||N|kristing@uchicago.edu
+Goldner|Benjamin|R|426432|Undergraduate: Philosophy|4|CMSC 33950|01||CLARK|N|goldnb@uchicago.edu
+Livak|Britt||423975|Public Health Sciences||CMSC 33950|01|||N|brittsl@uchicago.edu
+Martin|Paula|JoAnne|425060|Comparative Human Development||CMSC 33950|01|||N|paulam@uchicago.edu
+Uller|Christopher|Ronald|455251|Social Sciences||CMSC 33950|01|||N|cruller@uchicago.edu
+Zentner|Shanna||458078|Visual Arts||CMSC 33950|01|||N|zentner@uchicago.edu
+Byers|Austin|Bryant|426721|Undergraduate: Comp Sci|4|CMSC 35600|01||LAMPERT|N|charitygains@uchicago.edu
+Eclov|Neville||428569|Medical Physics||CMSC 35600|01|||N|neclov@uchicago.edu
+Halford|Noah|Henry Jacobs|426543|Undergraduate: Physics|4|CMSC 35600|01||SNOW|N|nhalford@uchicago.edu
+Jiang|Hao||457147|Computer Science||CMSC 35600|01|||N|hajiang@uchicago.edu
+Liu|Yan||442925|Computer Science||CMSC 35600|01|||N|joey2005@uchicago.edu
+McDonnell|Joseph|Michael|451038|Gsal||CMSC 35600|01|||N|joemcdonnell@uchicago.edu
+Cai|Zheng||446365|Physical Sciences||CMSC 37000|01|||N|jontsai@uchicago.edu
+Chen|Hongfan||446298|Business||CMSC 37000|01|||N|hchen86@uchicago.edu
+Chu|Weiwei||435701|Chemistry||CMSC 37000|01|||N|weiweichu@uchicago.edu
+Ding|Yi||455687|Computer Science||CMSC 37000|01|||N|dingy@uchicago.edu
+Dziedzic|Adam||452276|Computer Science||CMSC 37000|01|||N|ady@uchicago.edu
+Foley|Jillian|Elaine|452156|Conceptual & Historical Studies Of Science||CMSC 37000|01|||N|jillianefoley@uchicago.edu
+Granha Jeronimo|Fernando||452187|Computer Science||CMSC 37000|01|||N|granha@uchicago.edu
+Green|Robert|Laurence|448425|Undergraduate: Mathematics|2|CMSC 37000|01||PENN|N|greenbean@uchicago.edu
+Hao|Mingzhe||430838|Computer Science||CMSC 37000|01|||N|hmz20000@uchicago.edu
+Hempel|Brian|Nathan|452197|Computer Science||CMSC 37000|01|||N|brianhempel@uchicago.edu
+Huynh|Tri|Quoc|452274|Computer Science||CMSC 37000|01|||N|trihuynh@uchicago.edu
+Hyun|Maria||453174|Computer Science||CMSC 37000|01|||N|mhyun@uchicago.edu
+Jiang|Hao||457147|Computer Science||CMSC 37000|01|||N|hajiang@uchicago.edu
+Ke|Huan||452700|Computer Science||CMSC 37000|01|||N|huanke@uchicago.edu
+Kong|William||442928|Computer Science||CMSC 37000|01|||N|wkong@uchicago.edu
+Li|Guangpu||452702|Computer Science||CMSC 37000|01|||N|cstjygpl@uchicago.edu
+Li|Gushu||449957|Computer Science||CMSC 37000|01|||N|ligushu@uchicago.edu
+Li|Huaicheng||457537|Computer Science||CMSC 37000|01|||N|huaicheng@uchicago.edu
+Lukman|Jeffrey|Ferrari|452201|Computer Science||CMSC 37000|01|||N|lukman@uchicago.edu
+Marincic|Ivana||452194|Computer Science||CMSC 37000|01|||N|imarincic@uchicago.edu
+Nagami Coregliano|Leonardo||450873|Computer Science||CMSC 37000|01|||N|lenacore@uchicago.edu
+Pan|Horace||455702|Computer Science||CMSC 37000|01|||N|hopan@uchicago.edu
+Sen|Aritra||442913|Computer Science||CMSC 37000|01|||N|aritrasen@uchicago.edu
+Tang|Dixin||452270|Computer Science||CMSC 37000|01|||N|totemtang@uchicago.edu
+Torrence|Johanna|Olivia|420585|Computer Science||CMSC 37000|01|||N|jtorrence@uchicago.edu
+Wang|Minzhe||453040|Statistics||CMSC 37000|01|||N|minzhew@uchicago.edu
+Wang|Shu||457397|Computer Science||CMSC 37000|01|||N|shuwang@uchicago.edu
+Xu|Min||452278|Computer Science||CMSC 37000|01|||N|xum@uchicago.edu
+Yu|Lang||452203|Computer Science||CMSC 37000|01|||N|langyu@uchicago.edu
+Biderman|Joshua|Benjamin|426740|Undergraduate: Mathematics|4|CMSC 38000|01||HAWK|N|joshbiderman@uchicago.edu
+Farvardin|Kavon|Far|442614|Computer Science||CMSC 38000|01|||N|kavon@uchicago.edu
+Granha Jeronimo|Fernando||452187|Computer Science||CMSC 38000|01|||N|granha@uchicago.edu
+Green|Robert|Laurence|448425|Undergraduate: Mathematics|2|CMSC 38000|01||PENN|N|greenbean@uchicago.edu
+Nagami Coregliano|Leonardo||450873|Computer Science||CMSC 38000|01|||N|lenacore@uchicago.edu
+Kim|Hong Kyun||420116|Computer Science||CMSC 39800|03|||N|hongk@uchicago.edu
+Chiw|Charisee||420115|Computer Science||CMSC 39800|05|||N|cchiw@uchicago.edu
+Farvardin|Kavon|Far|442614|Computer Science||CMSC 39800|05|||N|kavon@uchicago.edu
+Samuels|Lamont|Kenneth|411602|Computer Science||CMSC 39800|05|||N|lamonts@uchicago.edu
+Wingerter|Joseph|Michael|442916|Computer Science||CMSC 39800|05|||N|wings@uchicago.edu
+Sen|Aritra||442913|Computer Science||CMSC 39800|09|||N|aritrasen@uchicago.edu
+Demirci|Huseyin|Gokalp|432315|Computer Science||CMSC 39800|12|||N|demirci@uchicago.edu
+Li|Yuan||420119|Computer Science||CMSC 39800|12|||N|yuanli@uchicago.edu
+Mirsattari|NegarSadat||381886|Computer Science||CMSC 39800|12|||N|mirsattari@uchicago.edu
+Tchoua|Roselyne|Barreto|432501|Computer Science||CMSC 39800|16|||Y|roselyne@uchicago.edu
+Thaler|Severin||432502|Computer Science||CMSC 39800|16|||N|sthaler@uchicago.edu
+Laguna|Sean|Joseph|427208|Computer Science||CMSC 39800|18|||N|slaguna@uchicago.edu
+Morgan|Hannah|Mairs|427211|Computer Science||CMSC 39800|18|||N|hmmorgan@uchicago.edu
+Orlova|Tatiana||413021|Computer Science||CMSC 39800|18|||N|orlova@uchicago.edu
+Alkhafaji|Moe|Asaad|360280|Computer Science||CMSC 39800|21|||N|alkhafaj@uchicago.edu
+Assaf|Rida||448151|Computer Science||CMSC 39800|21|||N|rida@uchicago.edu
+Bun|Christopher|Chean|412996|Computer Science||CMSC 39800|21|||N|cbun@uchicago.edu
+Lou|Zhihao||416427|Computer Science||CMSC 39800|21|||N|zhlou@uchicago.edu
+Santerre|John|William|420122|Computer Science||CMSC 39800|21|||N|santerre@uchicago.edu
+Larsson|Gustav|Martin|420118|Computer Science||CMSC 39800|22|||N|larsson@uchicago.edu
+Stoehr|Mark|Anthony|375650|Computer Science||CMSC 39800|22|||N|stoehr@uchicago.edu
+Fitz|Stephen||432331|Computer Science||CMSC 39800|26|||N|stephenf@uchicago.edu
+Nagami Coregliano|Leonardo||450873|Computer Science||CMSC 39800|31|||N|lenacore@uchicago.edu
+Li|Kai||420571|Computer Science||CMSC 39800|33|||N|lik11@uchicago.edu
+Seltzer|Nicholas|Morris|413226|Computer Science||CMSC 39800|33|||N|nseltzer@uchicago.edu
+Fang|Aiman||427207|Computer Science||CMSC 39800|36|||N|aimanf@uchicago.edu
+Fang|Yuanwei||432326|Computer Science||CMSC 39800|36|||Y|fywkevin@uchicago.edu
+Hyun|Maria||453174|Computer Science||CMSC 39800|36|||N|mhyun@uchicago.edu
+Li|Yun||442933|Computer Science||CMSC 39800|36|||N|yunli@uchicago.edu
+Liu|Yan||442925|Computer Science||CMSC 39800|36|||N|joey2005@uchicago.edu
+Yang|Fan||432555|Computer Science||CMSC 39800|36|||N|fanyang@uchicago.edu
+Yu|Lang||452203|Computer Science||CMSC 39800|36|||N|langyu@uchicago.edu
+Basart|Steven||442615|Computer Science||CMSC 39800|37|||N|xksteven@uchicago.edu
+Mudrakarta|Pramod Kaushik||448071|Computer Science||CMSC 39800|37|||N|pramodkm@uchicago.edu
+Pan|Horace||455702|Computer Science||CMSC 39800|37|||N|hopan@uchicago.edu
+Teneva|Nedelina|Yordanova|420123|Computer Science||CMSC 39800|37|||N|nteneva@uchicago.edu
+Mishra|Nikita||427210|Computer Science||CMSC 39800|38|||N|nmishra@uchicago.edu
+Zheng|Qinqing||427216|Computer Science||CMSC 39800|38|||N|qinqing@uchicago.edu
+Hao|Mingzhe||430838|Computer Science||CMSC 39800|40|||N|hmz20000@uchicago.edu
+Ke|Huan||452700|Computer Science||CMSC 39800|40|||N|huanke@uchicago.edu
+Leesatapornwongsa|Tanakorn||427209|Computer Science||CMSC 39800|40|||N|tanakorn@uchicago.edu
+Li|Huaicheng||457537|Computer Science||CMSC 39800|40|||N|huaicheng@uchicago.edu
+Lukman|Jeffrey|Ferrari|452201|Computer Science||CMSC 39800|40|||N|lukman@uchicago.edu
+Suminto|Riza|Oktavian Nugraha|432491|Computer Science||CMSC 39800|40|||Y|riza@uchicago.edu
+Tong|Hao||448144|Computer Science||CMSC 39800|40|||N|michaelht@uchicago.edu
+Yan|Shiqin||442912|Computer Science||CMSC 39800|40|||N|shiqin@uchicago.edu
+Hempel|Brian|Nathan|452197|Computer Science||CMSC 39800|43|||N|brianhempel@uchicago.edu
+Xu|Min||452278|Computer Science||CMSC 39800|44|||N|xum@uchicago.edu
+Barati|Saeid||434988|Computer Science||CMSC 39800|45|||Y|saeid@uchicago.edu
+Dickens|Bernard||442926|Computer Science||CMSC 39800|45|||N|bd3@uchicago.edu
+Farrell|Anne|Marie|442616|Computer Science||CMSC 39800|45|||N|amfarrell@uchicago.edu
+Imes|Connor|Kelly|432357|Computer Science||CMSC 39800|45|||N|ckimes@uchicago.edu
+Kong|William||442928|Computer Science||CMSC 39800|45|||N|wkong@uchicago.edu
+Li|Gushu||449957|Computer Science||CMSC 39800|45|||N|ligushu@uchicago.edu
+Zhang|Huazhe||432564|Computer Science||CMSC 39800|45|||N|huazhe@uchicago.edu
+Zhou|Zhixuan||436181|Computer Science||CMSC 39800|45|||N|zhixuanzhou@uchicago.edu
+Chen|Yuxi||448150|Computer Science||CMSC 39800|46|||N|chenyuxi@uchicago.edu
+Chu|Zewei||452195|Computer Science||CMSC 39800|46|||N|zeweichu@uchicago.edu
+Li|Guangpu||452702|Computer Science||CMSC 39800|46|||N|cstjygpl@uchicago.edu
+Liu|Haopeng||442917|Computer Science||CMSC 39800|46|||N|haopliu@uchicago.edu
+Wang|Shu||457397|Computer Science||CMSC 39800|46|||N|shuwang@uchicago.edu
+Sheikhi|Samira||432473|Computer Science||CMSC 39800|47|||N|ssheikhi@uchicago.edu
+Wang|Jialei||432525|Computer Science||CMSC 39800|47|||N|jialei@uchicago.edu
+Tsang|Hing Yin||442929|Computer Science||CMSC 39800|48|||N|hytsang@uchicago.edu
+Dziedzic|Adam||452276|Computer Science||CMSC 39800|49|||N|ady@uchicago.edu
+Tang|Dixin||452270|Computer Science||CMSC 39800|49|||N|totemtang@uchicago.edu
+Basart|Steven||442615|Computer Science||CMSC 39800|51|||N|xksteven@uchicago.edu

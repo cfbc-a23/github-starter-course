@@ -1,0 +1,5 @@
+2696000 Chicago
+655900 Boston
+852500 San Francisco
+8491000 New York
+3929000 Los Angeles
