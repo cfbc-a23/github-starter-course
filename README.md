@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+# KEEP CALM AND CARRY ON #
 
 ## 🤓 Course overview and learning outcomes 
 
