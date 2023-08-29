@@ -1,3 +1,5 @@
+[good coffee place recommendation please!]
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
