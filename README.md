@@ -1,4 +1,5 @@
 ## Today is crazy.
+Hope it is OK tomorrow.
 
 # :wave: The Basics of GitHub 
 
