@@ -1,8 +1,8 @@
-# :wave: The Basics of GitHub - Modified by Mian
+# :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀 (Yahaha)
 
 ## :octocat: Git and GitHub
 
@@ -14,7 +14,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 ## :octocat: Understanding the GitHub flow 
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work. 
 
 ### Repositories
 
