@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-modify
+Hi from Hyde Park! I am making modification here and i don't need permisson. Now a new one.
 
 ## 🤓 Course overview and learning outcomes 
 
