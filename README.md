@@ -1,7 +1,7 @@
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
-
+Hello
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
@@ -105,3 +105,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+Is this thing on?
