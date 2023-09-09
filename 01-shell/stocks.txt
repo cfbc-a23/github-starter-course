@@ -1,0 +1,5 @@
+Intel	INTC	Oregon	29.66	140
+Microsof	MSFT	Washington	50.48	403
+Amazon	AMZN	Washington	575.02	270
+Apple	AAPL	California	96.30	534
+Alphabet	GOOG	California	706.59	486

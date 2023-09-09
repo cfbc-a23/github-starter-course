@@ -1,0 +1,206 @@
+CS 122
+Lecture #7
+
+Lecture Outline:
+  Basic introduction to C
+    structs & pointers to structs
+    typedefs 
+    start linked lists
+
+Reading:  see Piazza for links
+  This week: K&R: Ch 4, Ch 5, Ch 6.1-6.7 
+    K&P 2.6-2.7
+
+Notes:
+
+Introduction to structures & pointers to structures
+
+  Go through Pair.java (see handout.txt for code)
+
+  Introduce the idea of structures:
+
+    struct pair {
+      int x;
+      int y;
+    };
+
+    struct pair *mkPair(int x, int y) {
+      struct pair *rv = (struct pair *) malloc(sizeof(*rv)); 
+      if (rv == NULL) {
+         // generate an error
+         // ckMalloc library routine.
+      }
+      rv->x = x;
+      rv->y = y;
+      return rv;
+    }
+
+  Talk about assertions.  Mention including assert.h.
+
+    void freePair(struct pair *p) {
+      assert(p != NULL);   
+      free(p);
+    }
+
+    int getXPair(struct pair *p) {
+      assert(p != NULL);
+      return p->x;
+    }
+
+  Talk about typedef: definition and use
+
+    typedef struct pair *pair_t;
+
+    pair_t mkPair(int x, int y) {
+      pair_t rv = (pair_t) malloc(sizeof(*rv)); 
+      rv->x = x;
+      rv->y = y;
+      return rv;
+    }
+ 
+    int getXPair(pair_t p) {
+      assert(p != NULL);
+      return p->x;
+    }
+
+  Talk about header files and information hiding.
+
+Go over game structures from pa2:
+
+  typedef struct game_s {
+    int n;             // number of rows
+    int m;             // number of columns
+    double **player1;  // payoffs for player 1
+    double **player2;  // payoffs for player 1
+    int orig_n;        // do not change after initialized
+    int orig_m;        // do not change after initalized
+  } *game_t;
+
+
+  2D arrays:
+    static allocation:
+
+      int n = 10;
+      int m = 20;
+      int[n][m] x;
+
+      x[i][j];
+
+    dynamic allocation:
+
+
+    int **mk2d(int n, int m) {
+      int **x = (int **) malloc(sizeof(x[0])*n);
+      for (int i = 0; i < n; i++) {
+        x[i] = (int *) malloc(sizeof(x[i])*m);
+      }
+      return x;
+    }
+
+
+Start linked lists:
+  Arrays work well when (1) you know the size and (2) the size does not change
+    (can implement "growable arrays" -- see K&P 2.6)
+
+  Linked lists are useful when you do not know the size in advance or the size
+    needs to change over time.
+
+  idea: each element of the list is stored in its own structure & then
+    chain them together.  use a variable to keep track of the start of the
+    list.   include addresses A, B, C, ... in pix.  introduce the
+    value NULL (stdlib.h)
+
+  draw pix w/ integer list 3,7,2
+
+  work through computing length of list and finding whether or not
+    something is in the list using the picture
+
+  go through structure definition:  recursive!
+
+    struct node {
+      int val;
+      struct node *next;
+    };
+
+    struct node *mkNode(int val, struct node *next) {
+      struct node *rv = (struct node *) malloc(sizeof(*rv));
+      rv->val = val;
+      rv->next = next;
+      return rv;
+    }
+
+  Empty list: NULL
+    bool isEmptyNode(struct node *l) {
+      return (l == NULL);
+    }
+
+
+  Compute length of list: talk about test cases!
+
+    int lenNode(struct node *l) {
+      int len = 0;
+      while (l != NULL) {
+        len++;
+        l = l->next;
+      }
+      return len;
+    }
+
+  Is value in list: ASK -- how do we modify lenNode to 
+    get containsNode?
+
+    bool containsNode(struct node *l, int v) {
+      while (l != NULL) {
+        if (l->val == v) {
+          return true;
+        }
+        l = l->next;
+      }
+      return false;
+    }
+
+
+======
+If time:
+
+Add to front
+  struct node *addToFrontNode(struct node *n, int val) {
+    return mkNode(val, l);
+  }
+
+Add before ith?
+  discuss test cases first:
+      1. empty list
+      2. item at front of non-empty list
+      3. middle
+      4. end
+
+  struct node *addIthNode(struct node *n, int i, int val) {
+    struct node *head = n;
+
+    if (i == 0) {
+      head = mkNode(val, n);
+    } else {
+      struct node *prev = NULL;
+      struct node *curr = n;
+
+      while ((curr != NULL) && (i > 0)) {
+        prev = curr;
+        curr = curr->next;
+        i--;
+      }
+
+      // assume that val goes at end of j >= length of list
+
+      assert(prev != NULL);
+      prev->next = mkNode(val, curr);
+    }
+
+    return head;
+}
+  
+
+
+
+
+   

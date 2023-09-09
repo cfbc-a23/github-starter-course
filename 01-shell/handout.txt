@@ -1,0 +1,120 @@
+/* Pair.java */
+public class Pair {
+    private int x;
+    private int y;
+
+    public Pair(int x0, int y0) {
+        this.x = x0;
+        this.y = y0;
+    }
+
+    public int getX() {
+        return this.x;
+    }
+
+    public int getY() {
+        return this.y;
+    }
+
+
+    public String toString() {
+        return "(" + x + ", " + y + ")";
+    }
+}
+
+
+
+
+
+/* UsePair.java */
+public class UsePair {
+    public static void main(String[] args) {
+        Pair p = new Pair(5, 7);
+        System.out.println(p);
+        System.out.printf("X: %d\n", p.getX());
+        System.out.printf("Y: %d\n", p.getY());
+    }
+}
+
+/* pair.py */
+class Pair:
+  def __init__(self, x, y):
+      self.x = x
+      self.y = y
+
+  def get_x(self):
+      return self.x
+
+  def get_y(self):
+      return self.y
+
+  def __str__(self):
+      return "(" + str(self.x) + ", " + str(self.y) + ")"
+
+
+
+
+
+/* use-pair.py */
+import pair
+
+if __name__ == "__main__":
+    p = pair.Pair(5,7)
+    print p
+    print "X: " + str(p.get_x())
+    print "Y: " + str(p.get_y())
+
+/* pair.c */
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <assert.h>
+
+struct pair {
+  int x;
+  int y;
+};
+
+struct pair *mkPair(int x, int y) {
+  struct pair *rv = (struct pair *) malloc(sizeof(*rv)); 
+  rv->x = x;
+  rv->y = y;
+  return rv;
+}
+
+void freePair(struct pair *p) {
+  assert(p != NULL);
+  free(p);
+}
+
+void printPair(struct pair *p) {
+  assert(p != NULL);
+  printf("(%d, %d)\n", p->x, p->y);
+}
+
+int getXPair(struct pair *p) {
+  assert(p != NULL);
+  return p->x;
+}
+
+int getYPair(struct pair *p) {
+  assert(p != NULL);
+  return p->y;
+}
+
+
+
+/* use-pair.c */
+#include <stdio.h>
+#include "pair.h"
+
+int main(int argc, char *argv[]) {
+  pair_t p = mkPair(5, 7);
+  printPair(p);
+  printf("X: %d\n", getXPair(p));
+  printf("Y: %d\n", getYPair(p));
+  freePair(p);
+}
+
+
+
